@@ -1,0 +1,1408 @@
+{
+  "items": [
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Fuel",
+          "description": ". Rust full node implementation of the Fuel protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:38:14Z",
+            "owner": "FuelLabs",
+            "repo": "fuel-core",
+            "stars": 56915
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Libra",
+          "description": ". Global currency and financial infrastructure that empowers billions of people.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T05:53:02Z",
+            "owner": "diem",
+            "repo": "diem",
+            "stars": 16668
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana",
+          "description": ". Blockchain Rebuilt for Scale.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2025-01-22T19:41:54Z",
+            "owner": "solana-labs",
+            "repo": "solana",
+            "stars": 14944
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sui Network",
+          "description": ". A next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:41:04Z",
+            "owner": "MystenLabs",
+            "repo": "sui",
+            "stars": 7734
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polkadot",
+          "description": ". Polkadot Node Implementation.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-11-15T13:20:33Z",
+            "owner": "paritytech",
+            "repo": "polkadot",
+            "stars": 7087
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parity Ethereum",
+          "description": ". The fast, light, and robust EVM and WASM client.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-11-01T09:05:37Z",
+            "owner": "openethereum",
+            "repo": "parity-ethereum",
+            "stars": 6825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Grin",
+          "description": ". Minimal implementation of the MimbleWimble protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T21:07:55Z",
+            "owner": "mimblewimble",
+            "repo": "grin",
+            "stars": 5091
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lighthouse",
+          "description": ". Fast and secure Ethereum 2.0 client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:29:40Z",
+            "owner": "sigp",
+            "repo": "lighthouse",
+            "stars": 3467
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Stacks 2.0",
+          "description": ". Proof of Transfer blockchain from Blockstack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T22:28:46Z",
+            "owner": "stacks-network",
+            "repo": "stacks-core",
+            "stars": 3061
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NEAR",
+          "description": ". NEAR Protocol - scalable and usable blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:30:51Z",
+            "owner": "near",
+            "repo": "nearcore",
+            "stars": 2610
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Namada",
+          "description": ". Proof-of-Stake L1 for interchain asset-agnostic privacy.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-07T14:16:07Z",
+            "owner": "namada-net",
+            "repo": "namada",
+            "stars": 2516
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NYM",
+          "description": ". Selective privacy via a mixnet preventing metadata analysis.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:21:14Z",
+            "owner": "nymtech",
+            "repo": "nym",
+            "stars": 1884
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internet Computer Protocol (ICP)",
+          "description": ". The world’s first blockchain that runs at web speed and can increase its capacity without bound.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:44:58Z",
+            "owner": "dfinity",
+            "repo": "ic",
+            "stars": 1783
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenEthereum",
+          "description": ". The Ethereum Rust client",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-05-23T19:01:30Z",
+            "owner": "openethereum",
+            "repo": "openethereum",
+            "stars": 1627
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Holochain",
+          "description": ". The core Holochain framework written in rust, a container, and hdk-rust library for writing Zomes.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T15:40:10Z",
+            "owner": "holochain",
+            "repo": "holochain",
+            "stars": 1389
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CITA",
+          "description": ". A high performance blockchain kernel for enterprise users.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2022-12-10T16:57:30Z",
+            "owner": "citahub",
+            "repo": "cita",
+            "stars": 1301
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Exonum",
+          "description": ". An extensible open-source framework for creating private/permissioned blockchain applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-02-25T19:27:29Z",
+            "owner": "exonum",
+            "repo": "exonum",
+            "stars": 1245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nervos CKB",
+          "description": ". Nervos CKB is a public permissionless blockchain, the common knowledge layer of Nervos network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T21:44:23Z",
+            "owner": "nervosnetwork",
+            "repo": "ckb",
+            "stars": 1219
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ethrex",
+          "description": ". Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:21:31Z",
+            "owner": "lambdaclass",
+            "repo": "ethrex",
+            "stars": 888
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parity Bitcoin",
+          "description": ". The Parity Bitcoin client.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-06-14T16:13:51Z",
+            "owner": "paritytech",
+            "repo": "parity-bitcoin",
+            "stars": 722
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Conflux",
+          "description": ". The Rust implementation of Conflux protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T03:39:17Z",
+            "owner": "Conflux-Chain",
+            "repo": "conflux-rust",
+            "stars": 719
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Forest",
+          "description": ". An implementation of Filecoin written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:23:26Z",
+            "owner": "ChainSafe",
+            "repo": "forest",
+            "stars": 697
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tendermint",
+          "description": ". Tendermint is a high-performance blockchain consensus engine for Byzantine fault tolerant applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-17T09:39:38Z",
+            "owner": "cometbft",
+            "repo": "tendermint-rs",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zebra",
+          "description": ". An ongoing Rust implementation of a Zcash node.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T01:54:51Z",
+            "owner": "ZcashFoundation",
+            "repo": "zebra",
+            "stars": 595
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Radix",
+          "description": ". Sharded smart contract DeFi platform.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-03-27T07:38:40Z",
+            "owner": "radixdlt",
+            "repo": "radixdlt-scrypto",
+            "stars": 410
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Casper",
+          "description": ". A decentralized L1 PoS blockchain designed to accelerate enterprise and developer adoption.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-24T13:24:28Z",
+            "owner": "casper-network",
+            "repo": "casper-node",
+            "stars": 401
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Gear",
+          "description": ". Computational component of Polkadot network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T13:11:08Z",
+            "owner": "gear-tech",
+            "repo": "gear",
+            "stars": 264
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zero-chain",
+          "description": ". A privacy-preserving blockchain on Substrate.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-02-03T18:01:39Z",
+            "owner": "LayerXcom",
+            "repo": "zero-chain",
+            "stars": 262
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CodeChain",
+          "description": ". Programmable multi-asset chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-01-07T03:21:06Z",
+            "owner": "CodeChain-io",
+            "repo": "codechain",
+            "stars": 256
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Darwinia",
+          "description": ". Relay chain of Darwinia Network, can connect to Polkadot as parachain in Polkadot Model.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T07:08:23Z",
+            "owner": "darwinia-network",
+            "repo": "darwinia",
+            "stars": 245
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Shasper",
+          "description": ". Parity Shasper beacon chain implementation using the Substrate framework.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-01-07T21:44:25Z",
+            "owner": "paritytech",
+            "repo": "shasper",
+            "stars": 196
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Witnet",
+          "description": ". Open source implementation of Witnet decentralized oracle network protocol in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-19T15:51:50Z",
+            "owner": "witnet",
+            "repo": "witnet-rust",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Parity Zcash",
+          "description": ". Rust implementation of Zcash protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-10-15T15:25:48Z",
+            "owner": "paritytech",
+            "repo": "parity-zcash",
+            "stars": 179
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polymesh",
+          "description": ". The Polymesh blockchain (built on Substrate) is an identity orientated chain for the issuance, lifecycle management and settlement of regulated securities.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T20:01:37Z",
+            "owner": "PolymeshAssociation",
+            "repo": "Polymesh",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Mina Protocol",
+          "description": ". A rust implementation of the mina succinct blockchain.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-09-30T03:55:16Z",
+            "owner": "ChainSafe",
+            "repo": "mina-rs",
+            "stars": 169
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Nomic",
+          "description": ". Nomic is a high-performance Bitcoin sidechain which is part of the Cosmos network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-12T19:58:59Z",
+            "owner": "nomic-io",
+            "repo": "nomic",
+            "stars": 154
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "RsNano",
+          "description": ". A rust port of Nano: the eco-friendly & feeless digital currency",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-03T12:25:29Z",
+            "owner": "rsnano-node",
+            "repo": "rsnano-node",
+            "stars": 107
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Enigma",
+          "description": "secures the decentralized web.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-03-10T14:44:28Z",
+            "owner": "scrtlabs",
+            "repo": "enigma-core",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Chainflip",
+          "description": ". Native Cross-Chain Swaps.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:47:36Z",
+            "owner": "chainflip-io",
+            "repo": "chainflip-backend",
+            "stars": 69
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Secret Network",
+          "description": ". A privacy-first blockchain that uses Rust to enable \"secret contracts\", ensuring data is encrypted while being processed on-chain.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2020-11-14T21:33:02Z",
+            "owner": "SecretFoundation",
+            "repo": "SecretNetwork",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "xx-network",
+          "description": ". Post-quantum blockchain, mixnet privacy preventing metadata analysis. (Substrate rust+go)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-28T01:52:52Z",
+            "owner": "xxfoundation",
+            "repo": "xxchain",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bitcoin Cash",
+          "description": ". A library for creating and parsing Bitcoin Cash transactions.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2021-01-26T22:40:48Z",
+            "owner": "be-cash",
+            "repo": "bitcoin-cash",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Internet of People",
+          "description": ". Decentralized software stack that provides the building blocks and tools to support a decentralized society.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-30T11:34:22Z",
+            "owner": "Internet-of-People",
+            "repo": "iop-rs",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Aleo",
+          "description": ". Decentralized operating system for zero-knowledge applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-05-27T14:26:22Z",
+            "owner": "AleoNet",
+            "repo": "snarkOS-test",
+            "stars": 1
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Interledger",
+          "description": ". An easy-to-use, high-performance Interledger implementation written in Rust.",
+          "children": []
+        },
+        {
+          "node_type": "item",
+          "title": "Setheum",
+          "description": ". SETHEUM : “Secure Evergreen Truthful Heterogeneous Economically Unbiased Market” is an Ethical DeFi-friendly Blockchain (built on Substrate) working on achieving mass adoption, security, scalability, affordability, inclusivity and ethical DeFi Governance.",
+          "children": []
+        }
+      ],
+      "title": "Blockchains"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Substrate",
+          "description": ". The platform for blockchain innovators.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-09-25T20:31:30Z",
+            "owner": "paritytech",
+            "repo": "substrate",
+            "stars": 8398
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Anchor",
+          "description": "is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T00:23:17Z",
+            "owner": "otter-sec",
+            "repo": "anchor",
+            "stars": 5111
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tendermint ABCI",
+          "description": ". Tendermint ABCI server, written in the Rust programming language.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-17T09:39:38Z",
+            "owner": "cometbft",
+            "repo": "tendermint-rs",
+            "stars": 671
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "slingshot",
+          "description": ". A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-04-02T23:02:46Z",
+            "owner": "stellar",
+            "repo": "slingshot",
+            "stars": 422
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Trident",
+          "description": ". Fuzzing framework for Solana smart contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-18T11:25:38Z",
+            "owner": "Ackee-Blockchain",
+            "repo": "trident",
+            "stars": 400
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Orga",
+          "description": ". A high-performance state machine engine designed for Tendermint-based blockchain applications.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-01-25T21:52:51Z",
+            "owner": "turbofish-org",
+            "repo": "orga",
+            "stars": 174
+          }
+        }
+      ],
+      "title": "Blockchain Frameworks"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Hermes",
+          "description": ". Rust implementation of an Inter-Blockchain Communication (IBC) relayer.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-10-29T18:07:16Z",
+            "owner": "informalsystems",
+            "repo": "hermes",
+            "stars": 505
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ibc-rs",
+          "description": ". Rust implementation of the Inter-Blockchain Communication (IBC) protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-07-10T14:54:51Z",
+            "owner": "informalsystems",
+            "repo": "ibc-rs",
+            "stars": 224
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "AtomicDEX",
+          "description": ". Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-27T17:18:41Z",
+            "owner": "GLEECBTC",
+            "repo": "komodo-defi-framework",
+            "stars": 125
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Hyperlane",
+          "description": ". Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-08-12T22:40:31Z",
+            "owner": "hyperlane-xyz",
+            "repo": "hyperlane-monorepo",
+            "stars": 72
+          }
+        }
+      ],
+      "title": "Cross-Chain"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Wasmer",
+          "description": ". A convenient Rust wrapper over WebAssembly backends.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T08:41:50Z",
+            "owner": "wasmerio",
+            "repo": "wasmer",
+            "stars": 20950
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasmtime",
+          "description": ". Standalone JIT-style runtime for WebAssembly, using Cranelift.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T22:57:06Z",
+            "owner": "bytecodealliance",
+            "repo": "wasmtime",
+            "stars": 18508
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "EVM Parity",
+          "description": ". Parity implementation of EVM.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2020-11-01T09:05:37Z",
+            "owner": "openethereum",
+            "repo": "parity-ethereum",
+            "stars": 6825
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Lunatic",
+          "description": ". Erlang-inspired runtime for WebAssembly.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-03-29T18:30:22Z",
+            "owner": "lunatic-solutions",
+            "repo": "lunatic",
+            "stars": 4880
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wasmi",
+          "description": ". WebAssembly interpreter.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-11T21:23:31Z",
+            "owner": "wasmi-labs",
+            "repo": "wasmi",
+            "stars": 2168
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CosmWasm",
+          "description": ". Multi-chain smart contract platform built for the Cosmos ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-19T11:52:42Z",
+            "owner": "CosmWasm",
+            "repo": "cosmwasm",
+            "stars": 1148
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Polygon Miden",
+          "description": ". SNARK based VM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T07:36:48Z",
+            "owner": "0xMiden",
+            "repo": "miden-vm",
+            "stars": 765
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CKB-VM",
+          "description": ". RISC-V virtual machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-13T03:13:48Z",
+            "owner": "nervosnetwork",
+            "repo": "ckb-vm",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FVM",
+          "description": ". The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-03T20:10:18Z",
+            "owner": "filecoin-project",
+            "repo": "ref-fvm",
+            "stars": 421
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "FuelVM",
+          "description": ". Interpreter for the FuelVM, a blazingly fast blockchain virtual machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-17T17:55:00Z",
+            "owner": "FuelLabs",
+            "repo": "fuel-vm",
+            "stars": 372
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Zinc",
+          "description": ". Zinc zk smart contract language.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-11-25T15:23:23Z",
+            "owner": "matter-labs",
+            "repo": "zinc",
+            "stars": 309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SVM",
+          "description": "Spacemesh Virtual Machine.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2023-01-20T23:43:46Z",
+            "owner": "spacemeshos",
+            "repo": "svm",
+            "stars": 84
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Bithoven",
+          "description": ". A High-Level, Imperative Language for Bitcoin Smart Contracts, featuring an LR(1) parser with static analysis for compile-time safety.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-02-25T05:35:42Z",
+            "owner": "ChrisCho-H",
+            "repo": "bithoven",
+            "stars": 43
+          }
+        }
+      ],
+      "title": "Virtual Machines"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Raft",
+          "description": ". Raft distributed consensus algorithm implemented in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-13T09:23:35Z",
+            "owner": "tikv",
+            "repo": "raft-rs",
+            "stars": 3376
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Honey Badger",
+          "description": ". An implementation of the paper \"Honey Badger of BFT Protocols\" in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-01-06T19:06:04Z",
+            "owner": "poanetwork",
+            "repo": "hbbft",
+            "stars": 369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Narwhal",
+          "description": ". The consensus layer used by Sui.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-10-17T13:49:58Z",
+            "owner": "MystenLabs",
+            "repo": "narwhal",
+            "stars": 177
+          }
+        }
+      ],
+      "title": "General-Purpose Consensus"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rust-libp2p",
+          "description": ". The Rust Implementation of the libp2p networking stack.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T09:06:39Z",
+            "owner": "libp2p",
+            "repo": "rust-libp2p",
+            "stars": 5597
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "crust",
+          "description": ". Reliable P2P network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2019-06-04T14:33:57Z",
+            "owner": "maidsafe-archive",
+            "repo": "crust",
+            "stars": 949
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "qp2p",
+          "description": ". Peer-to-peer communications library for Rust based on QUIC protocol.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-03-20T15:06:44Z",
+            "owner": "maidsafe",
+            "repo": "qp2p",
+            "stars": 420
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sn_routing",
+          "description": ". Routing - specialised storage DHT.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-06-25T14:37:11Z",
+            "owner": "maidsafe",
+            "repo": "sn_routing",
+            "stars": 272
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Tentacle",
+          "description": ". A multiplexed p2p network framework that supports custom protocols",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-07-28T11:37:55Z",
+            "owner": "driftluo",
+            "repo": "tentacle",
+            "stars": 227
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "P2P NAT-Traversal",
+          "description": ". NAT Traversal techniques for p2p communication.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2018-11-27T15:20:58Z",
+            "owner": "ustulation",
+            "repo": "p2p",
+            "stars": 152
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chamomile",
+          "description": ". P2P library. Support build robust stable connection on p2p/distributed network.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-09-19T22:04:43Z",
+            "owner": "PostSiliconDev",
+            "repo": "chamomile",
+            "stars": 124
+          }
+        }
+      ],
+      "title": "P2P Network Libraries"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Microsoft Nova",
+          "description": ". Rust recursive snark without trusted setup.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-10T03:43:47Z",
+            "owner": "microsoft",
+            "repo": "Nova",
+            "stars": 859
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "OpenZKP",
+          "description": ". Pure Rust implementations of Zero-Knowledge Proof systems.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2024-04-23T12:24:45Z",
+            "owner": "0xProject",
+            "repo": "OpenZKP",
+            "stars": 658
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Awesome Cryptography Rust",
+          "description": ".",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": null,
+            "last_commit": "2026-07-01T13:25:10Z",
+            "owner": "rust-cc",
+            "repo": "awesome-cryptography-rust",
+            "stars": 588
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Za!",
+          "description": ". An experimental rust zksnarks compiler with embeeded bellman-bn128 prover.",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2021-05-29T09:15:38Z",
+            "owner": "adria0",
+            "repo": "za",
+            "stars": 41
+          }
+        }
+      ],
+      "title": "Cryptography"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "zkSync",
+          "description": ". Matter Labs' scaling eth L2 engine secured by zero-knowledge proofs.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-05-08T09:04:17Z",
+            "owner": "matter-labs",
+            "repo": "zksync",
+            "stars": 4923
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Noir language",
+          "description": ". Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T21:04:48Z",
+            "owner": "noir-lang",
+            "repo": "noir",
+            "stars": 1387
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Rust-Lightning",
+          "description": "is a Bitcoin Lightning library written in Rust. The main crate, lightning, does not handle networking, persistence, or any other I/O. Thus, it is runtime-agnostic, but users must implement basic networking logic, chain interactions, and disk storage.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-08-12T23:14:19Z",
+            "owner": "lightningdevkit",
+            "repo": "rust-lightning",
+            "stars": 1369
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Penumbra",
+          "description": ". PoS network providing privacy to the Cosmos ecosystem.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-01-24T20:53:27Z",
+            "owner": "penumbra-zone",
+            "repo": "penumbra",
+            "stars": 483
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Arbitrum's arb-os",
+          "description": "ArbOS is the \"operating system\" that runs an eth Layer 2 on an Arbitrum chain,",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "language": "Rust",
+            "last_commit": "2022-08-24T23:47:56Z",
+            "owner": "OffchainLabs",
+            "repo": "arb-os",
+            "stars": 95
+          }
+        }
+      ],
+      "title": "Layer2"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Serum-dex",
+          "description": ". A decentralized exchange built on Solana.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-06-07T10:08:14Z",
+            "owner": "project-serum",
+            "repo": "serum-dex",
+            "stars": 699
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ink!athon",
+          "description": ". Full-Stack DApp Boilerplate for Substrate and ink! Smart Contracts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2025-12-12T13:16:25Z",
+            "owner": "scio-labs",
+            "repo": "inkathon",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SewUp",
+          "description": ". A library to help you build your Ethereum webassembly contract with Rust and just like develop in a common backend.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2023-09-11T03:57:03Z",
+            "owner": "second-state",
+            "repo": "SewUp",
+            "stars": 54
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sienna Network",
+          "description": ". A privacy-first and cross-chain decentralized finance platform where you can privately swap, lend and convert your tokens into their private equivalent.",
+          "children": []
+        }
+      ],
+      "title": "Dapps"
+    },
+    {
+      "description": "",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "abscissa",
+          "description": ". Micro-framework for CLI tools with strong focus on security.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-06T13:05:55Z",
+            "owner": "iqlusioninc",
+            "repo": "abscissa",
+            "stars": 594
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ERC-4337 Bundler",
+          "description": ". An ongoing Rust implementation of an ERC-4337 (Account Abstraction) Bundler.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2025-08-18T21:35:10Z",
+            "owner": "silius-rs",
+            "repo": "silius",
+            "stars": 273
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "merk",
+          "description": ". High performance Merkle key/value store written in Rust, based on RocksDB.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2024-12-18T17:48:38Z",
+            "owner": "turbofish-org",
+            "repo": "merk",
+            "stars": 249
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Solana VS Code Extension",
+          "description": ". VS Code extension for Solana with built-in static analysis detectors and fuzzing coverage visualization.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "language": "Rust",
+            "last_commit": "2026-04-01T08:25:10Z",
+            "owner": "Ackee-Blockchain",
+            "repo": "solana-vscode",
+            "stars": 38
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tesseracts",
+          "description": ". A small block explorer for geth PoAs written in rust.",
+          "children": []
+        }
+      ],
+      "title": "Other"
+    },
+    {
+      "description": "Contributions are most welcome.\nGitHub: Awesome Blockchain Rust",
+      "items": [],
+      "title": "Contribute"
+    },
+    {
+      "description": "This work is licensed under a Creative Commons Attribution 4.0 International License.",
+      "items": [],
+      "title": "License"
+    }
+  ],
+  "metadata": {
+    "last_updated": "2026-08-13T08:47:47.361Z",
+    "original_repository": "rust-in-blockchain/awesome-blockchain-rust",
+    "original_repository_sha": "f27be64a93517e2f3e7dc4dbe38660536e29fe9a",
+    "enhanced_repository": "enhansome/enhansome-blockchain-rust",
+    "enhanced_repository_description": null,
+    "title": "Awesome Blockchain Rust with stars"
+  }
+}
