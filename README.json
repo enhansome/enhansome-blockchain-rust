@@ -14,7 +14,7 @@
             "last_commit": "2026-08-16T00:14:10Z",
             "owner": "FuelLabs",
             "repo": "fuel-core",
-            "stars": 56903
+            "stars": 56902
           }
         },
         {
@@ -28,7 +28,7 @@
             "last_commit": "2026-08-14T05:52:35Z",
             "owner": "diem",
             "repo": "diem",
-            "stars": 16669
+            "stars": 16668
           }
         },
         {
@@ -42,7 +42,7 @@
             "last_commit": "2025-01-22T19:41:54Z",
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14943
+            "stars": 14942
           }
         },
         {
@@ -53,10 +53,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T18:23:02Z",
+            "last_commit": "2026-08-18T07:57:31Z",
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7737
+            "stars": 7736
           }
         },
         {
@@ -70,7 +70,7 @@
             "last_commit": "2023-11-15T13:20:33Z",
             "owner": "paritytech",
             "repo": "polkadot",
-            "stars": 7087
+            "stars": 7086
           }
         },
         {
@@ -84,7 +84,7 @@
             "last_commit": "2020-11-01T09:05:37Z",
             "owner": "openethereum",
             "repo": "parity-ethereum",
-            "stars": 6823
+            "stars": 6822
           }
         },
         {
@@ -98,7 +98,7 @@
             "last_commit": "2026-08-11T21:07:55Z",
             "owner": "mimblewimble",
             "repo": "grin",
-            "stars": 5092
+            "stars": 5093
           }
         },
         {
@@ -109,10 +109,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T06:52:07Z",
+            "last_commit": "2026-08-18T07:57:12Z",
             "owner": "sigp",
             "repo": "lighthouse",
-            "stars": 3468
+            "stars": 3467
           }
         },
         {
@@ -123,7 +123,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T21:13:00Z",
+            "last_commit": "2026-08-17T21:45:34Z",
             "owner": "stacks-network",
             "repo": "stacks-core",
             "stars": 3061
@@ -137,10 +137,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:02:56Z",
+            "last_commit": "2026-08-18T07:33:49Z",
             "owner": "near",
             "repo": "nearcore",
-            "stars": 2610
+            "stars": 2609
           }
         },
         {
@@ -165,10 +165,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T06:42:07Z",
+            "last_commit": "2026-08-18T07:36:42Z",
             "owner": "nymtech",
             "repo": "nym",
-            "stars": 1898
+            "stars": 1903
           }
         },
         {
@@ -179,7 +179,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T08:02:41Z",
+            "last_commit": "2026-08-18T07:53:36Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1784
@@ -196,7 +196,7 @@
             "last_commit": "2022-05-23T19:01:30Z",
             "owner": "openethereum",
             "repo": "openethereum",
-            "stars": 1627
+            "stars": 1626
           }
         },
         {
@@ -207,10 +207,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T02:26:00Z",
+            "last_commit": "2026-08-17T14:54:55Z",
             "owner": "holochain",
             "repo": "holochain",
-            "stars": 1389
+            "stars": 1390
           }
         },
         {
@@ -252,7 +252,7 @@
             "last_commit": "2026-08-11T21:44:23Z",
             "owner": "nervosnetwork",
             "repo": "ckb",
-            "stars": 1220
+            "stars": 1219
           }
         },
         {
@@ -305,10 +305,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T06:27:15Z",
+            "last_commit": "2026-08-18T07:00:39Z",
             "owner": "ChainSafe",
             "repo": "forest",
-            "stars": 697
+            "stars": 696
           }
         },
         {
@@ -333,7 +333,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T13:50:46Z",
+            "last_commit": "2026-08-18T01:13:22Z",
             "owner": "ZcashFoundation",
             "repo": "zebra",
             "stars": 596
@@ -375,7 +375,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-16T18:45:42Z",
+            "last_commit": "2026-08-18T05:35:10Z",
             "owner": "gear-tech",
             "repo": "gear",
             "stars": 264
@@ -473,7 +473,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T18:26:16Z",
+            "last_commit": "2026-08-17T21:33:10Z",
             "owner": "PolymeshAssociation",
             "repo": "Polymesh",
             "stars": 170
@@ -543,7 +543,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T01:41:26Z",
+            "last_commit": "2026-08-18T06:17:34Z",
             "owner": "chainflip-io",
             "repo": "chainflip-backend",
             "stars": 69
@@ -648,7 +648,7 @@
             "last_commit": "2023-09-25T20:31:30Z",
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8398
+            "stars": 8397
           }
         },
         {
@@ -659,7 +659,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T02:34:15Z",
+            "last_commit": "2026-08-17T22:22:50Z",
             "owner": "otter-sec",
             "repo": "anchor",
             "stars": 5112
@@ -738,7 +738,7 @@
             "last_commit": "2025-10-29T18:07:16Z",
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 506
+            "stars": 505
           }
         },
         {
@@ -777,7 +777,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-08-15T07:54:18Z",
+            "last_commit": "2026-08-18T07:56:43Z",
             "owner": "hyperlane-xyz",
             "repo": "hyperlane-monorepo",
             "stars": 72
@@ -797,10 +797,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-15T11:18:53Z",
+            "last_commit": "2026-08-18T07:52:26Z",
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20956
+            "stars": 20957
           }
         },
         {
@@ -814,7 +814,7 @@
             "last_commit": "2026-08-14T19:11:37Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18527
+            "stars": 18534
           }
         },
         {
@@ -828,7 +828,7 @@
             "last_commit": "2020-11-01T09:05:37Z",
             "owner": "openethereum",
             "repo": "parity-ethereum",
-            "stars": 6823
+            "stars": 6822
           }
         },
         {
@@ -867,10 +867,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T07:33:17Z",
+            "last_commit": "2026-08-17T14:08:49Z",
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1147
+            "stars": 1146
           }
         },
         {
@@ -881,7 +881,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T07:40:20Z",
+            "last_commit": "2026-08-18T07:46:23Z",
             "owner": "0xMiden",
             "repo": "miden-vm",
             "stars": 768
@@ -898,7 +898,7 @@
             "last_commit": "2026-08-13T03:13:48Z",
             "owner": "nervosnetwork",
             "repo": "ckb-vm",
-            "stars": 423
+            "stars": 422
           }
         },
         {
@@ -1033,10 +1033,10 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-10T09:06:39Z",
+            "last_commit": "2026-08-17T12:16:45Z",
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5599
+            "stars": 5600
           }
         },
         {
@@ -1140,7 +1140,7 @@
             "last_commit": "2026-08-10T03:43:47Z",
             "owner": "microsoft",
             "repo": "Nova",
-            "stars": 860
+            "stars": 861
           }
         },
         {
@@ -1213,7 +1213,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-17T05:35:29Z",
+            "last_commit": "2026-08-18T03:31:27Z",
             "owner": "noir-lang",
             "repo": "noir",
             "stars": 1389
@@ -1227,7 +1227,7 @@
           "repo_info": {
             "archived": false,
             "language": "Rust",
-            "last_commit": "2026-08-14T17:40:36Z",
+            "last_commit": "2026-08-17T23:33:01Z",
             "owner": "lightningdevkit",
             "repo": "rust-lightning",
             "stars": 1369
@@ -1278,7 +1278,7 @@
             "last_commit": "2024-06-07T10:08:14Z",
             "owner": "project-serum",
             "repo": "serum-dex",
-            "stars": 698
+            "stars": 697
           }
         },
         {
@@ -1398,7 +1398,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T08:05:08.242Z",
+    "last_updated": "2026-08-18T07:58:25.846Z",
     "original_repository": "rust-in-blockchain/awesome-blockchain-rust",
     "original_repository_sha": "f27be64a93517e2f3e7dc4dbe38660536e29fe9a",
     "enhanced_repository": "enhansome/enhansome-blockchain-rust",
