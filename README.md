@@ -17,7 +17,7 @@
 
 ## Blockchains
 
-* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,887 | 🐛 199 | 🌐 Rust | 📅 2026-08-25.
+* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,887 | 🐛 201 | 🌐 Rust | 📅 2026-08-25.
   Rust full node implementation of the Fuel protocol.
 * [Libra](https://github.com/libra/libra) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-23.
   Global currency and financial infrastructure that empowers billions
@@ -36,15 +36,15 @@
   Minimal implementation of the MimbleWimble protocol.
 * [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 523 | 🌐 Rust | 📅 2026-08-25.
   Fast and secure Ethereum 2.0 client.
-* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 681 | 🌐 Rust | 📅 2026-08-24.
+* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 681 | 🌐 Rust | 📅 2026-08-25.
   Proof of Transfer blockchain from Blockstack.
-* [NEAR](https://github.com/nearprotocol/nearcore) ⭐ 2,610 | 🐛 505 | 🌐 Rust | 📅 2026-08-24.
+* [NEAR](https://github.com/nearprotocol/nearcore) ⭐ 2,610 | 🐛 505 | 🌐 Rust | 📅 2026-08-25.
   NEAR Protocol - scalable and usable blockchain.
 * [Namada](https://github.com/anoma/namada) ⭐ 2,514 | 🐛 219 | 🌐 Rust | 📅 2026-08-07.
   Proof-of-Stake L1 for interchain asset-agnostic privacy.
 * [NYM](https://github.com/nymtech/nym) ⭐ 1,911 | 🐛 124 | 🌐 Rust | 📅 2026-08-24.
   Selective privacy via a mixnet preventing metadata analysis.
-* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,785 | 🐛 294 | 🌐 Rust | 📅 2026-08-25.
+* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,785 | 🐛 296 | 🌐 Rust | 📅 2026-08-25.
   The world’s first blockchain that runs at web speed and can increase
   its capacity without bound.
 * [OpenEthereum](https://github.com/openethereum/openethereum) ⚠️ Archived.
@@ -64,7 +64,7 @@
   Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 * [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) ⭐ 722 | 🐛 54 | 🌐 Rust | 📅 2023-06-14.
   The Parity Bitcoin client.
-* [Conflux](https://github.com/Conflux-Chain/conflux-rust) ⭐ 718 | 🐛 71 | 🌐 Rust | 📅 2026-08-21.
+* [Conflux](https://github.com/Conflux-Chain/conflux-rust) ⭐ 718 | 🐛 71 | 🌐 Rust | 📅 2026-08-25.
   The Rust implementation of Conflux protocol.
 * [Forest](https://github.com/ChainSafe/forest) ⭐ 696 | 🐛 132 | 🌐 Rust | 📅 2026-08-25.
   An implementation of Filecoin written in Rust.
@@ -147,7 +147,7 @@
 
 * [Substrate](https://github.com/paritytech/substrate) ⚠️ Archived.
   The platform for blockchain innovators.
-* [Anchor](https://github.com/coral-xyz/anchor) ⭐ 5,119 | 🐛 161 | 🌐 Rust | 📅 2026-08-21
+* [Anchor](https://github.com/coral-xyz/anchor) ⭐ 5,121 | 🐛 161 | 🌐 Rust | 📅 2026-08-21
   is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 * [Tendermint ABCI](https://github.com/informalsystems/tendermint-rs/tree/master/abci) ⭐ 671 | 🐛 177 | 🌐 Rust | 📅 2026-04-17.
   Tendermint ABCI server, written in the Rust programming language.
@@ -175,7 +175,7 @@
 
 ## Virtual Machines
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,968 | 🐛 230 | 🌐 Rust | 📅 2026-08-25.
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,968 | 🐛 231 | 🌐 Rust | 📅 2026-08-25.
   A convenient Rust wrapper over WebAssembly backends.
 * [Wasmtime](https://github.com/CraneStation/wasmtime) ⭐ 18,561 | 🐛 849 | 🌐 Rust | 📅 2026-08-24.
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
@@ -187,7 +187,7 @@
   WebAssembly interpreter.
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 43 | 🌐 Rust | 📅 2026-08-17.
   Multi-chain smart contract platform built for the Cosmos ecosystem.
-* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 196 | 🌐 Rust | 📅 2026-08-25.
+* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 197 | 🌐 Rust | 📅 2026-08-25.
   SNARK based VM.
 * [FVM](https://github.com/filecoin-project/ref-fvm) ⭐ 423 | 🐛 193 | 🌐 Rust | 📅 2026-08-18.
   The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.
