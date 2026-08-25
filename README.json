@@ -12,10 +12,10 @@
             "archived": false,
             "id": 290882787,
             "language": "Rust",
-            "last_commit": "2026-08-23T19:47:55Z",
+            "last_commit": "2026-08-25T04:49:01Z",
             "owner": "FuelLabs",
             "repo": "fuel-core",
-            "stars": 56889
+            "stars": 56887
           }
         },
         {
@@ -57,7 +57,7 @@
             "archived": false,
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:33:56Z",
+            "last_commit": "2026-08-25T03:51:12Z",
             "owner": "MystenLabs",
             "repo": "sui",
             "stars": 7737
@@ -117,7 +117,7 @@
             "archived": false,
             "id": 139952333,
             "language": "Rust",
-            "last_commit": "2026-08-24T10:49:41Z",
+            "last_commit": "2026-08-25T04:48:42Z",
             "owner": "sigp",
             "repo": "lighthouse",
             "stars": 3466
@@ -132,7 +132,7 @@
             "archived": false,
             "id": 24375248,
             "language": "Rust",
-            "last_commit": "2026-08-21T15:13:45Z",
+            "last_commit": "2026-08-24T21:51:27Z",
             "owner": "stacks-network",
             "repo": "stacks-core",
             "stars": 3062
@@ -147,7 +147,7 @@
             "archived": false,
             "id": 151331938,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:54:26Z",
+            "last_commit": "2026-08-24T20:30:51Z",
             "owner": "near",
             "repo": "nearcore",
             "stars": 2610
@@ -177,10 +177,10 @@
             "archived": false,
             "id": 232312458,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:49:14Z",
+            "last_commit": "2026-08-24T21:08:15Z",
             "owner": "nymtech",
             "repo": "nym",
-            "stars": 1910
+            "stars": 1911
           }
         },
         {
@@ -192,7 +192,7 @@
             "archived": false,
             "id": 365701873,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:02:24Z",
+            "last_commit": "2026-08-25T05:49:54Z",
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1785
@@ -222,7 +222,7 @@
             "archived": false,
             "id": 233632633,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:08:34Z",
+            "last_commit": "2026-08-24T16:11:00Z",
             "owner": "holochain",
             "repo": "holochain",
             "stars": 1391
@@ -282,7 +282,7 @@
             "archived": false,
             "id": 808266543,
             "language": "Rust",
-            "last_commit": "2026-08-23T15:18:21Z",
+            "last_commit": "2026-08-24T23:40:16Z",
             "owner": "lambdaclass",
             "repo": "ethrex",
             "stars": 887
@@ -327,10 +327,10 @@
             "archived": false,
             "id": 221071442,
             "language": "Rust",
-            "last_commit": "2026-08-24T12:50:38Z",
+            "last_commit": "2026-08-25T04:44:19Z",
             "owner": "ChainSafe",
             "repo": "forest",
-            "stars": 695
+            "stars": 696
           }
         },
         {
@@ -357,10 +357,10 @@
             "archived": false,
             "id": 205255683,
             "language": "Rust",
-            "last_commit": "2026-08-23T13:45:38Z",
+            "last_commit": "2026-08-25T02:12:13Z",
             "owner": "ZcashFoundation",
             "repo": "zebra",
-            "stars": 596
+            "stars": 597
           }
         },
         {
@@ -387,7 +387,7 @@
             "archived": false,
             "id": 263892105,
             "language": "Rust",
-            "last_commit": "2026-07-24T13:24:28Z",
+            "last_commit": "2026-08-24T22:31:45Z",
             "owner": "casper-network",
             "repo": "casper-node",
             "stars": 400
@@ -582,7 +582,7 @@
             "archived": false,
             "id": 341335250,
             "language": "Rust",
-            "last_commit": "2026-08-24T11:21:36Z",
+            "last_commit": "2026-08-25T05:25:18Z",
             "owner": "chainflip-io",
             "repo": "chainflip-backend",
             "stars": 69
@@ -696,7 +696,7 @@
             "last_commit": "2026-08-21T11:16:34Z",
             "owner": "otter-sec",
             "repo": "anchor",
-            "stars": 5117
+            "stars": 5119
           }
         },
         {
@@ -819,7 +819,7 @@
             "archived": false,
             "id": 437973582,
             "language": "TypeScript",
-            "last_commit": "2026-08-24T13:37:54Z",
+            "last_commit": "2026-08-25T01:13:13Z",
             "owner": "hyperlane-xyz",
             "repo": "hyperlane-monorepo",
             "stars": 72
@@ -840,7 +840,7 @@
             "archived": false,
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-24T14:02:22Z",
+            "last_commit": "2026-08-25T05:12:18Z",
             "owner": "wasmerio",
             "repo": "wasmer",
             "stars": 20968
@@ -855,10 +855,10 @@
             "archived": false,
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-21T18:19:44Z",
+            "last_commit": "2026-08-24T23:21:56Z",
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18560
+            "stars": 18561
           }
         },
         {
@@ -930,25 +930,10 @@
             "archived": false,
             "id": 404963106,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:59:01Z",
+            "last_commit": "2026-08-25T05:47:04Z",
             "owner": "0xMiden",
             "repo": "miden-vm",
             "stars": 769
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CKB-VM",
-          "description": ". RISC-V virtual machine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "id": 158303450,
-            "language": "Rust",
-            "last_commit": "2026-08-21T07:28:59Z",
-            "owner": "nervosnetwork",
-            "repo": "ckb-vm",
-            "stars": 422
           }
         },
         {
@@ -963,6 +948,21 @@
             "last_commit": "2026-08-18T12:00:43Z",
             "owner": "filecoin-project",
             "repo": "ref-fvm",
+            "stars": 423
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "CKB-VM",
+          "description": ". RISC-V virtual machine.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 158303450,
+            "language": "Rust",
+            "last_commit": "2026-08-21T07:28:59Z",
+            "owner": "nervosnetwork",
+            "repo": "ckb-vm",
             "stars": 422
           }
         },
@@ -1284,7 +1284,7 @@
             "archived": false,
             "id": 285004577,
             "language": "Rust",
-            "last_commit": "2026-08-24T08:17:06Z",
+            "last_commit": "2026-08-25T03:30:32Z",
             "owner": "noir-lang",
             "repo": "noir",
             "stars": 1393
@@ -1299,7 +1299,7 @@
             "archived": false,
             "id": 121809370,
             "language": "Rust",
-            "last_commit": "2026-08-24T13:27:00Z",
+            "last_commit": "2026-08-25T00:24:35Z",
             "owner": "lightningdevkit",
             "repo": "rust-lightning",
             "stars": 1370
@@ -1457,7 +1457,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:02:38.757Z",
+    "last_updated": "2026-08-25T05:55:53.825Z",
     "original_repository": "rust-in-blockchain/awesome-blockchain-rust",
     "original_repository_id": 184961291,
     "original_repository_sha": "f27be64a93517e2f3e7dc4dbe38660536e29fe9a",
