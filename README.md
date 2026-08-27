@@ -17,14 +17,14 @@
 
 ## Blockchains
 
-* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,885 | 🐛 201 | 🌐 Rust | 📅 2026-08-25.
+* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,885 | 🐛 202 | 🌐 Rust | 📅 2026-08-27.
   Rust full node implementation of the Fuel protocol.
 * [Libra](https://github.com/libra/libra) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-23.
   Global currency and financial infrastructure that empowers billions
   of people.
 * [Solana](https://github.com/solana-labs/solana) ⚠️ Archived.
   Blockchain Rebuilt for Scale.
-* [Sui Network](https://github.com/MystenLabs/sui) ⭐ 7,738 | 🐛 824 | 🌐 Rust | 📅 2026-08-27.
+* [Sui Network](https://github.com/MystenLabs/sui) ⭐ 7,738 | 🐛 826 | 🌐 Rust | 📅 2026-08-27.
   A next-generation smart contract platform with high throughput, low
   latency, and an asset-oriented programming model powered by the Move
   programming language.
@@ -34,22 +34,22 @@
   The fast, light, and robust EVM and WASM client.
 * [Grin](https://github.com/mimblewimble/grin) ⭐ 5,093 | 🐛 141 | 🌐 Rust | 📅 2026-08-11.
   Minimal implementation of the MimbleWimble protocol.
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 520 | 🌐 Rust | 📅 2026-08-27.
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 521 | 🌐 Rust | 📅 2026-08-27.
   Fast and secure Ethereum 2.0 client.
-* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 683 | 🌐 Rust | 📅 2026-08-26.
+* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 683 | 🌐 Rust | 📅 2026-08-27.
   Proof of Transfer blockchain from Blockstack.
-* [NEAR](https://github.com/nearprotocol/nearcore) ⭐ 2,611 | 🐛 503 | 🌐 Rust | 📅 2026-08-27.
+* [NEAR](https://github.com/nearprotocol/nearcore) ⭐ 2,612 | 🐛 502 | 🌐 Rust | 📅 2026-08-27.
   NEAR Protocol - scalable and usable blockchain.
 * [Namada](https://github.com/anoma/namada) ⭐ 2,514 | 🐛 219 | 🌐 Rust | 📅 2026-08-07.
   Proof-of-Stake L1 for interchain asset-agnostic privacy.
-* [NYM](https://github.com/nymtech/nym) ⭐ 1,912 | 🐛 131 | 🌐 Rust | 📅 2026-08-27.
+* [NYM](https://github.com/nymtech/nym) ⭐ 1,913 | 🐛 132 | 🌐 Rust | 📅 2026-08-27.
   Selective privacy via a mixnet preventing metadata analysis.
-* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,786 | 🐛 292 | 🌐 Rust | 📅 2026-08-27.
+* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,786 | 🐛 293 | 🌐 Rust | 📅 2026-08-27.
   The world’s first blockchain that runs at web speed and can increase
   its capacity without bound.
 * [OpenEthereum](https://github.com/openethereum/openethereum) ⚠️ Archived.
   The Ethereum Rust client
-* [Holochain](https://github.com/holochain/holochain) ⭐ 1,392 | 🐛 269 | 🌐 Rust | 📅 2026-08-26.
+* [Holochain](https://github.com/holochain/holochain) ⭐ 1,392 | 🐛 268 | 🌐 Rust | 📅 2026-08-27.
   The core Holochain framework written in rust, a container, and
   hdk-rust library for writing Zomes.
 * [CITA](https://github.com/cryptape/cita) ⭐ 1,301 | 🐛 11 | 🌐 Rust | 📅 2022-12-10.
@@ -60,18 +60,18 @@
 * [Nervos CKB](https://github.com/nervosnetwork/ckb) ⭐ 1,219 | 🐛 78 | 🌐 Rust | 📅 2026-08-27.
   Nervos CKB is a public permissionless blockchain, the common
   knowledge layer of Nervos network.
-* [Ethrex](https://github.com/lambdaclass/ethrex) ⭐ 888 | 🐛 1,005 | 🌐 Rust | 📅 2026-08-26.
+* [Ethrex](https://github.com/lambdaclass/ethrex) ⭐ 888 | 🐛 1,001 | 🌐 Rust | 📅 2026-08-27.
   Minimalist, fast and modular implementation of the Ethereum protocol in Rust. L1 and L2 execution client.
 * [Parity Bitcoin](https://github.com/paritytech/parity-bitcoin) ⭐ 722 | 🐛 54 | 🌐 Rust | 📅 2023-06-14.
   The Parity Bitcoin client.
 * [Conflux](https://github.com/Conflux-Chain/conflux-rust) ⭐ 718 | 🐛 71 | 🌐 Rust | 📅 2026-08-25.
   The Rust implementation of Conflux protocol.
-* [Forest](https://github.com/ChainSafe/forest) ⭐ 697 | 🐛 143 | 🌐 Rust | 📅 2026-08-27.
+* [Forest](https://github.com/ChainSafe/forest) ⭐ 697 | 🐛 141 | 🌐 Rust | 📅 2026-08-27.
   An implementation of Filecoin written in Rust.
 * [Tendermint](https://github.com/informalsystems/tendermint-rs) ⭐ 671 | 🐛 177 | 🌐 Rust | 📅 2026-04-17.
   Tendermint is a high-performance blockchain consensus engine for
   Byzantine fault tolerant applications.
-* [Zebra](https://github.com/ZcashFoundation/zebra) ⭐ 597 | 🐛 374 | 🌐 Rust | 📅 2026-08-26.
+* [Zebra](https://github.com/ZcashFoundation/zebra) ⭐ 598 | 🐛 376 | 🌐 Rust | 📅 2026-08-27.
   An ongoing Rust implementation of a Zcash node.
 * [Radix](https://github.com/radixdlt/radixdlt-scrypto) ⭐ 410 | 🐛 25 | 🌐 Rust | 📅 2026-03-27.
   Sharded smart contract DeFi platform.
@@ -94,7 +94,7 @@
   protocol in Rust.
 * [Parity Zcash](https://github.com/paritytech/parity-zcash) ⚠️ Archived.
   Rust implementation of Zcash protocol.
-* [Polymesh](https://github.com/PolymathNetwork/Polymesh) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-08-26.
+* [Polymesh](https://github.com/PolymathNetwork/Polymesh) ⭐ 170 | 🐛 3 | 🌐 Rust | 📅 2026-08-27.
   The Polymesh blockchain (built on Substrate) is an identity orientated chain
   for the issuance, lifecycle management and settlement of regulated securities.
 * [Mina Protocol](https://github.com/ChainSafe/mina-rs) ⚠️ Archived.
@@ -175,19 +175,19 @@
 
 ## Virtual Machines
 
-* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,974 | 🐛 232 | 🌐 Rust | 📅 2026-08-27.
+* [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,975 | 🐛 242 | 🌐 Rust | 📅 2026-08-27.
   A convenient Rust wrapper over WebAssembly backends.
-* [Wasmtime](https://github.com/CraneStation/wasmtime) ⭐ 18,571 | 🐛 851 | 🌐 Rust | 📅 2026-08-26.
+* [Wasmtime](https://github.com/CraneStation/wasmtime) ⭐ 18,574 | 🐛 847 | 🌐 Rust | 📅 2026-08-27.
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
 * [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) ⚠️ Archived.
   Parity implementation of EVM.
 * [Lunatic](https://github.com/lunatic-solutions/lunatic) ⭐ 4,884 | 🐛 48 | 🌐 Rust | 📅 2025-03-29.
   Erlang-inspired runtime for WebAssembly.
-* [Wasmi](https://github.com/paritytech/wasmi) ⭐ 2,175 | 🐛 24 | 🌐 Rust | 📅 2026-08-11.
+* [Wasmi](https://github.com/paritytech/wasmi) ⭐ 2,176 | 🐛 24 | 🌐 Rust | 📅 2026-08-11.
   WebAssembly interpreter.
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,145 | 🐛 42 | 🌐 Rust | 📅 2026-08-25.
   Multi-chain smart contract platform built for the Cosmos ecosystem.
-* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 769 | 🐛 180 | 🌐 Rust | 📅 2026-08-27.
+* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 182 | 🌐 Rust | 📅 2026-08-27.
   SNARK based VM.
 * [FVM](https://github.com/filecoin-project/ref-fvm) ⭐ 423 | 🐛 193 | 🌐 Rust | 📅 2026-08-18.
   The Filecoin Virtual Machine is a hypervisor-inspired Wasm execution environment that supports multiple runtimes, including the EVM.
@@ -238,7 +238,7 @@
   Rust recursive snark without trusted setup.
 * [OpenZKP](https://github.com/0xProject/OpenZKP) ⚠️ Archived.
   Pure Rust implementations of Zero-Knowledge Proof systems.
-* [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust) ⭐ 588 | 🐛 3 | 📅 2026-07-01.
+* [Awesome Cryptography Rust](https://github.com/rust-cc/awesome-cryptography-rust) ⭐ 588 | 🐛 1 | 📅 2026-07-01.
 * [Za!](https://github.com/adria0/za) ⚠️ Archived.
   An experimental rust zksnarks compiler with embeeded bellman-bn128
   prover.
@@ -250,7 +250,7 @@
 
 * [zkSync](https://github.com/matter-labs/zksync) ⭐ 4,924 | 🐛 106 | 🌐 Rust | 📅 2026-05-08.
   Matter Labs' scaling eth L2 engine secured by zero-knowledge proofs.
-* [Noir language](https://github.com/noir-lang/noir) ⭐ 1,393 | 🐛 796 | 🌐 Rust | 📅 2026-08-27.
+* [Noir language](https://github.com/noir-lang/noir) ⭐ 1,393 | 🐛 797 | 🌐 Rust | 📅 2026-08-27.
   Noir is a Domain Specific Language for SNARK proving systems. (Aztec eth L2)
 * [Rust-Lightning](https://github.com/rust-bitcoin/rust-lightning) ⭐ 1,372 | 🐛 275 | 🌐 Rust | 📅 2026-08-26
   is a Bitcoin Lightning library written in Rust.
