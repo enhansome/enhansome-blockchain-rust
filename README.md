@@ -17,9 +17,9 @@
 
 ## Blockchains
 
-* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,879 | 🐛 202 | 🌐 Rust | 📅 2026-08-28.
+* [Fuel](https://github.com/FuelLabs/fuel-core) ⭐ 56,878 | 🐛 201 | 🌐 Rust | 📅 2026-08-29.
   Rust full node implementation of the Fuel protocol.
-* [Libra](https://github.com/libra/libra) ⭐ 16,667 | 🐛 368 | 🌐 Rust | 📅 2026-08-28.
+* [Libra](https://github.com/libra/libra) ⭐ 16,669 | 🐛 368 | 🌐 Rust | 📅 2026-08-28.
   Global currency and financial infrastructure that empowers billions
   of people.
 * [Solana](https://github.com/solana-labs/solana) ⚠️ Archived.
@@ -32,11 +32,11 @@
   Polkadot Node Implementation.
 * [Parity Ethereum](https://github.com/paritytech/parity-ethereum) ⚠️ Archived.
   The fast, light, and robust EVM and WASM client.
-* [Grin](https://github.com/mimblewimble/grin) ⭐ 5,094 | 🐛 141 | 🌐 Rust | 📅 2026-08-11.
+* [Grin](https://github.com/mimblewimble/grin) ⭐ 5,094 | 🐛 142 | 🌐 Rust | 📅 2026-08-11.
   Minimal implementation of the MimbleWimble protocol.
-* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 522 | 🌐 Rust | 📅 2026-08-28.
+* [Lighthouse](https://github.com/sigp/lighthouse) ⭐ 3,466 | 🐛 523 | 🌐 Rust | 📅 2026-08-28.
   Fast and secure Ethereum 2.0 client.
-* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 684 | 🌐 Rust | 📅 2026-08-28.
+* [Stacks 2.0](https://github.com/blockstack/stacks-blockchain) ⭐ 3,062 | 🐛 686 | 🌐 Rust | 📅 2026-08-28.
   Proof of Transfer blockchain from Blockstack.
 * [NEAR](https://github.com/nearprotocol/nearcore) ⭐ 2,612 | 🐛 509 | 🌐 Rust | 📅 2026-08-28.
   NEAR Protocol - scalable and usable blockchain.
@@ -44,7 +44,7 @@
   Proof-of-Stake L1 for interchain asset-agnostic privacy.
 * [NYM](https://github.com/nymtech/nym) ⭐ 1,919 | 🐛 131 | 🌐 Rust | 📅 2026-08-28.
   Selective privacy via a mixnet preventing metadata analysis.
-* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,787 | 🐛 286 | 🌐 Rust | 📅 2026-08-29.
+* [Internet Computer Protocol (ICP)](https://github.com/dfinity/ic) ⭐ 1,787 | 🐛 285 | 🌐 Rust | 📅 2026-08-29.
   The world’s first blockchain that runs at web speed and can increase
   its capacity without bound.
 * [OpenEthereum](https://github.com/openethereum/openethereum) ⚠️ Archived.
@@ -147,7 +147,7 @@
 
 * [Substrate](https://github.com/paritytech/substrate) ⚠️ Archived.
   The platform for blockchain innovators.
-* [Anchor](https://github.com/coral-xyz/anchor) ⭐ 5,122 | 🐛 165 | 🌐 Rust | 📅 2026-08-28
+* [Anchor](https://github.com/coral-xyz/anchor) ⭐ 5,122 | 🐛 166 | 🌐 Rust | 📅 2026-08-28
   is a framework for Solana's Sealevel runtime providing several convenient developer tools for writing smart contracts.
 * [Tendermint ABCI](https://github.com/informalsystems/tendermint-rs/tree/master/abci) ⭐ 671 | 🐛 177 | 🌐 Rust | 📅 2026-04-17.
   Tendermint ABCI server, written in the Rust programming language.
@@ -168,7 +168,7 @@
   Rust implementation of the Inter-Blockchain Communication (IBC) protocol.
 * [AtomicDEX](https://github.com/KomodoPlatform/atomicDEX-API) ⭐ 125 | 🐛 417 | 🌐 Rust | 📅 2026-07-27.
   Cross-chain and cross-protocol p2p orderbook based decentralized exchange and interoperability bridge (self-custodial).
-* [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo) ⭐ 73 | 🐛 928 | 🌐 TypeScript | 📅 2026-08-29.
+* [Hyperlane](https://github.com/hyperlane-xyz/hyperlane-monorepo) ⭐ 73 | 🐛 929 | 🌐 TypeScript | 📅 2026-08-29.
   Framework for permissionless, modular interoperability. The offchain clients are written in Rust, as well as the smart contracts for Solana VM and CosmWasm.
 * [Comit](https://github.com/comit-network/).
   An open protocol facilitating trustless cross-blockchain applications.
@@ -177,7 +177,7 @@
 
 * [Wasmer](https://github.com/wasmerio/wasmer) ⭐ 20,985 | 🐛 251 | 🌐 Rust | 📅 2026-08-29.
   A convenient Rust wrapper over WebAssembly backends.
-* [Wasmtime](https://github.com/CraneStation/wasmtime) ⭐ 18,579 | 🐛 850 | 🌐 Rust | 📅 2026-08-28.
+* [Wasmtime](https://github.com/CraneStation/wasmtime) ⭐ 18,579 | 🐛 851 | 🌐 Rust | 📅 2026-08-28.
   Standalone JIT-style runtime for WebAssembly, using Cranelift.
 * [EVM Parity](https://github.com/paritytech/parity-ethereum/tree/master/evmbin) ⚠️ Archived.
   Parity implementation of EVM.
@@ -187,7 +187,7 @@
   WebAssembly interpreter.
 * [CosmWasm](https://github.com/CosmWasm/cosmwasm) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-08-25.
   Multi-chain smart contract platform built for the Cosmos ecosystem.
-* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 183 | 🌐 Rust | 📅 2026-08-28.
+* [Polygon Miden](https://github.com/maticnetwork/miden) ⭐ 770 | 🐛 182 | 🌐 Rust | 📅 2026-08-29.
   SNARK based VM.
 * [CKB-VM](https://github.com/nervosnetwork/ckb-vm) ⭐ 423 | 🐛 13 | 🌐 Rust | 📅 2026-08-21.
   RISC-V virtual machine.
