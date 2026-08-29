@@ -10,12 +10,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust full node implementation of the Fuel v2 protocol.",
+            "homepage": null,
             "id": 290882787,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:23:01Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-28T23:04:06Z",
+            "open_issues": 202,
             "owner": "FuelLabs",
             "repo": "fuel-core",
-            "stars": 56879
+            "stars": 56879,
+            "topics": [
+              "blockchain",
+              "fuel"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -26,12 +34,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Diem’s mission is to build a trusted and innovative financial network that empowers people and businesses around the world.",
+            "homepage": "https://diem.com",
             "id": 179164257,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T05:52:26Z",
+            "open_issues": 368,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16667
+            "stars": 16667,
+            "topics": [
+              "blockchain"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -42,12 +57,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Web-Scale Blockchain for fast, secure, scalable, decentralized apps and marketplaces.",
+            "homepage": "https://solanalabs.com",
             "id": 121470383,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-22T19:41:54Z",
+            "open_issues": 265,
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14940
+            "stars": 14940,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "ledger",
+              "performance-blockchain",
+              "rust",
+              "rustc",
+              "solana"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -58,12 +86,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " Sui, a next-generation smart contract platform with high throughput, low latency, and an asset-oriented programming model powered by the Move programming language",
+            "homepage": "https://sui.io",
             "id": 426075845,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:28:17Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:43:13Z",
+            "open_issues": 824,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7740
+            "stars": 7740,
+            "topics": [
+              "blockchain",
+              "distributed-ledger-technology",
+              "move",
+              "smart-contracts"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -74,12 +112,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Polkadot Node Implementation",
+            "homepage": null,
             "id": 144140342,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-11-15T13:20:33Z",
+            "open_issues": 223,
             "owner": "paritytech",
             "repo": "polkadot",
-            "stars": 7086
+            "stars": 7086,
+            "topics": [
+              "blockchain",
+              "client",
+              "node",
+              "parity",
+              "polkadot",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -90,12 +140,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The fast, light, and robust client for Ethereum-like networks.",
+            "homepage": null,
             "id": 46714939,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-01T09:05:37Z",
+            "open_issues": 160,
             "owner": "openethereum",
             "repo": "parity-ethereum",
-            "stars": 6823
+            "stars": 6823,
+            "topics": [
+              "blockchain",
+              "client",
+              "ethereum",
+              "node",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -106,12 +167,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimal implementation of the Mimblewimble protocol.",
+            "homepage": "https://grin.mw/",
             "id": 71514072,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-11T21:07:55Z",
+            "open_issues": 141,
             "owner": "mimblewimble",
             "repo": "grin",
-            "stars": 5094
+            "stars": 5094,
+            "topics": [
+              "cryptocurrency",
+              "cryptography",
+              "grin",
+              "mimblewimble",
+              "rust",
+              "zero-knowledge-proofs"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -122,12 +195,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Ethereum consensus client in Rust",
+            "homepage": "https://lighthouse-book.sigmaprime.io/",
             "id": 139952333,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T13:23:39Z",
+            "open_issues": 522,
             "owner": "sigp",
             "repo": "lighthouse",
-            "stars": 3466
+            "stars": 3466,
+            "topics": [
+              "eth2",
+              "ethereum",
+              "proof-of-stake"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -138,12 +220,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Stacks blockchain implementation",
+            "homepage": "https://docs.stacks.co",
             "id": 24375248,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T19:02:24Z",
+            "open_issues": 684,
             "owner": "stacks-network",
             "repo": "stacks-core",
-            "stars": 3062
+            "stars": 3062,
+            "topics": [
+              "bitcoin",
+              "crypto",
+              "decentralized",
+              "layer2",
+              "stacks"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -154,12 +247,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference client for NEAR Protocol",
+            "homepage": "https://near.org",
             "id": 151331938,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:16:09Z",
+            "license": "GPL-3.0",
+            "last_commit": "2026-08-28T21:09:35Z",
+            "open_issues": 509,
             "owner": "near",
             "repo": "nearcore",
-            "stars": 2612
+            "stars": 2612,
+            "topics": [
+              "blockchain",
+              "nearprotocol",
+              "rust",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -170,12 +273,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of Namada, a Proof-of-Stake L1 for interchain asset-agnostic privacy",
+            "homepage": "https://namada.net",
             "id": 510559980,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-07T14:16:07Z",
+            "open_issues": 219,
             "owner": "namada-net",
             "repo": "namada",
-            "stars": 2514
+            "stars": 2514,
+            "topics": [
+              "blockchain",
+              "privacy",
+              "rust",
+              "zkp"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -186,12 +299,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nym provides strong network-level privacy against sophisticated end-to-end attackers, and anonymous transactions using blinded, re-randomizable, decentralized credentials.",
+            "homepage": "https://nym.com",
             "id": 232312458,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-08-28T14:11:55Z",
+            "open_issues": 131,
             "owner": "nymtech",
             "repo": "nym",
-            "stars": 1918
+            "stars": 1919,
+            "topics": [
+              "decentralized",
+              "midnightntwrk",
+              "mixnet",
+              "mixnets",
+              "rust",
+              "rust-lang",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -202,12 +328,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Internet Computer blockchain source: the client/replica software run by nodes",
+            "homepage": "https://internetcomputer.org",
             "id": 365701873,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:13:30Z",
+            "license": "NOASSERTION",
+            "last_commit": "2026-08-29T03:25:31Z",
+            "open_issues": 286,
             "owner": "dfinity",
             "repo": "ic",
-            "stars": 1786
+            "stars": 1787,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -218,12 +349,19 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "(deprecated) The fast, light, and robust client for the Ethereum mainnet. ",
+            "homepage": null,
             "id": 283873079,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2022-05-23T19:01:30Z",
+            "open_issues": 155,
             "owner": "openethereum",
             "repo": "openethereum",
-            "stars": 1625
+            "stars": 1625,
+            "topics": [
+              "ethereum"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -234,12 +372,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The current, performant & industrial strength version of Holochain on Rust.",
+            "homepage": "https://holochain.org",
             "id": 233632633,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T17:07:07Z",
+            "open_issues": 267,
             "owner": "holochain",
             "repo": "holochain",
-            "stars": 1392
+            "stars": 1393,
+            "topics": [
+              "blockchain",
+              "dapps",
+              "dapps-development",
+              "distributed-computing",
+              "holochain",
+              "holochain-rust",
+              "p2p",
+              "rust",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -250,12 +403,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A high performance blockchain kernel for enterprise users.",
+            "homepage": "https://www.citahub.com/",
             "id": 97869781,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-12-10T16:57:30Z",
+            "open_issues": 11,
             "owner": "citahub",
             "repo": "cita",
-            "stars": 1301
+            "stars": 1301,
+            "topics": [
+              "blockchain",
+              "consensus",
+              "consortium",
+              "enterprise-users",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -266,12 +430,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "An extensible open-source framework for creating private/permissioned blockchain applications",
+            "homepage": "https://exonum.com",
             "id": 80729805,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-02-25T19:27:29Z",
+            "open_issues": 44,
             "owner": "exonum",
             "repo": "exonum",
-            "stars": 1245
+            "stars": 1245,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "byzantine",
+              "consensus-algorithm",
+              "cryptography",
+              "database",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -282,12 +460,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Nervos CKB is a public permissionless blockchain, and the layer 1 of Nervos network.",
+            "homepage": "https://www.nervos.org",
             "id": 158225088,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-27T05:24:11Z",
+            "open_issues": 78,
             "owner": "nervosnetwork",
             "repo": "ckb",
-            "stars": 1219
+            "stars": 1219,
+            "topics": [
+              "blockchain",
+              "ckb",
+              "nervos",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -298,12 +486,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Minimalist, stable, modular, fast, and ZK native implementation of the Ethereum protocol in Rust. L1 and L2 execution client.",
+            "homepage": "http://docs.ethrex.xyz/",
             "id": 808266543,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:26:23Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T22:08:29Z",
+            "open_issues": 991,
             "owner": "lambdaclass",
             "repo": "ethrex",
-            "stars": 888
+            "stars": 888,
+            "topics": [
+              "blockchain",
+              "distributed-systems",
+              "ethereum",
+              "execution-layer",
+              "p2p",
+              "rollup",
+              "rollups",
+              "rust",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -314,12 +517,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Parity Bitcoin client",
+            "homepage": null,
             "id": 65720992,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2023-06-14T16:13:51Z",
+            "open_issues": 54,
             "owner": "paritytech",
             "repo": "parity-bitcoin",
-            "stars": 722
+            "stars": 722,
+            "topics": [
+              "bitcoin",
+              "blockchain",
+              "client",
+              "node",
+              "parity",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -330,12 +545,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The official Rust implementation of Conflux protocol. https://doc.confluxnetwork.org",
+            "homepage": "https://doc.confluxnetwork.org",
             "id": 177399789,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-25T14:01:48Z",
+            "open_issues": 71,
             "owner": "Conflux-Chain",
             "repo": "conflux-rust",
-            "stars": 718
+            "stars": 718,
+            "topics": [
+              "blockchain",
+              "conflux",
+              "cryptocurrency",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -346,12 +572,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🌲 Rust Filecoin Node Implementation",
+            "homepage": "https://forest.chainsafe.io",
             "id": 221071442,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T02:53:02Z",
+            "open_issues": 140,
             "owner": "ChainSafe",
             "repo": "forest",
-            "stars": 696
+            "stars": 696,
+            "topics": [
+              "blockchain",
+              "filecoin",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -362,12 +598,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client libraries for Tendermint/CometBFT in Rust!",
+            "homepage": null,
             "id": 198281078,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T09:39:38Z",
+            "open_issues": 177,
             "owner": "cometbft",
             "repo": "tendermint-rs",
-            "stars": 671
+            "stars": 671,
+            "topics": [
+              "cometbft",
+              "light-client",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -378,12 +624,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Zcash - Financial Privacy in Rust 🦓",
+            "homepage": "https://zfnd.org/zebra/",
             "id": 205255683,
             "language": "Rust",
-            "last_commit": "2026-08-28T19:08:04Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:50:37Z",
+            "open_issues": 370,
             "owner": "ZcashFoundation",
             "repo": "zebra",
-            "stars": 601
+            "stars": 601,
+            "topics": [
+              "rust",
+              "zcash",
+              "zcash-node",
+              "zebra"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -394,12 +650,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Scrypto is the asset-oriented smart contract programming language of the Radix network. It allows you to quickly build secure and composable dApps.",
+            "homepage": "https://developers.radixdlt.com/",
             "id": 387535440,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-03-27T07:38:40Z",
+            "open_issues": 25,
             "owner": "radixdlt",
             "repo": "radixdlt-scrypto",
-            "stars": 410
+            "stars": 410,
+            "topics": [
+              "builders",
+              "defi",
+              "scrypto",
+              "smartcontracts",
+              "terraform-managed"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -410,12 +677,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference node for CASPER protocol",
+            "homepage": "https://casper.network",
             "id": 263892105,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-27T22:46:23Z",
+            "open_issues": 192,
             "owner": "casper-network",
             "repo": "casper-node",
-            "stars": 400
+            "stars": 400,
+            "topics": [
+              "blockchain",
+              "casper",
+              "casper-network",
+              "cspr",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -426,12 +704,29 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Web3 Ultimate Execution Engine",
+            "homepage": "https://gear-tech.io",
             "id": 388872173,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-23T18:45:52Z",
+            "open_issues": 117,
             "owner": "gear-tech",
             "repo": "gear",
-            "stars": 264
+            "stars": 264,
+            "topics": [
+              "blockchain",
+              "blockchain-technology",
+              "gear",
+              "gear-protocol",
+              "node",
+              "rust",
+              "smart-contracts",
+              "substrate",
+              "vara-network",
+              "wasm",
+              "web3"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -442,12 +737,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A privacy-preserving blockchain on Substrate",
+            "homepage": "https://layerxcom.github.io/zerochain-book/",
             "id": 164790067,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2025-02-03T18:01:39Z",
+            "open_issues": 59,
             "owner": "LayerXcom",
             "repo": "zero-chain",
-            "stars": 261
+            "stars": 261,
+            "topics": [
+              "blockchain",
+              "rust",
+              "substrate",
+              "zero-knowledge",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -458,12 +764,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CodeChain's official implementation in Rust.",
+            "homepage": "https://codechain.io/",
             "id": 118557921,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2023-01-07T03:21:06Z",
+            "open_issues": 64,
             "owner": "CodeChain-io",
             "repo": "codechain",
-            "stars": 256
+            "stars": 256,
+            "topics": [
+              "asset",
+              "blockchain",
+              "digital-securities",
+              "rust",
+              "tokenization"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -474,12 +791,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "L1 EVM chain governed by @ringecosystem connecting to Polkadot",
+            "homepage": "https://darwinia.network",
             "id": 183616787,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-27T09:22:42Z",
+            "open_issues": 29,
             "owner": "darwinia-network",
             "repo": "darwinia",
-            "stars": 245
+            "stars": 245,
+            "topics": [
+              "blockchain",
+              "cross-chain",
+              "darwinia",
+              "polkadot",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -490,12 +818,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Parity Shasper beacon chain implementation using the Substrate framework.",
+            "homepage": null,
             "id": 149278077,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2022-01-07T21:44:25Z",
+            "open_issues": 21,
             "owner": "paritytech",
             "repo": "shasper",
-            "stars": 196
+            "stars": 196,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -506,12 +839,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Open source Rust implementation of the Witnet decentralized oracle protocol, including full node and wallet backend  👁️🦀",
+            "homepage": "https://docs.witnet.io",
             "id": 120209021,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-05-19T15:51:50Z",
+            "open_issues": 129,
             "owner": "witnet",
             "repo": "witnet-rust",
-            "stars": 187
+            "stars": 187,
+            "topics": [
+              "blockchain",
+              "cryptocurrency",
+              "oracles",
+              "p2p",
+              "protocol",
+              "rust",
+              "smart-contracts",
+              "witnet"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -522,12 +869,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rust implementation of Zcash protocol ",
+            "homepage": null,
             "id": 155727813,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2021-10-15T15:25:48Z",
+            "open_issues": 12,
             "owner": "paritytech",
             "repo": "parity-zcash",
-            "stars": 179
+            "stars": 179,
+            "topics": [
+              "blockchain",
+              "client",
+              "node",
+              "parity",
+              "rust",
+              "zcash"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -538,12 +897,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Node for Polymesh Blockchain",
+            "homepage": "https://polymesh.network/",
             "id": 178884117,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-08-28T18:18:03Z",
+            "open_issues": 5,
             "owner": "PolymeshAssociation",
             "repo": "Polymesh",
-            "stars": 170
+            "stars": 170,
+            "topics": [
+              "blockchain",
+              "polymesh",
+              "rust",
+              "security-tokens",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -554,12 +924,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Rust implementation of the Mina protocol, targeting Wasm and ARM architectures.",
+            "homepage": null,
             "id": 364949404,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-09-30T03:55:16Z",
+            "open_issues": 27,
             "owner": "ChainSafe",
             "repo": "mina-rs",
-            "stars": 169
+            "stars": 169,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -570,12 +945,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Decentralized Custody Engine for Bitcoin",
+            "homepage": "https://nomic.io",
             "id": 219837289,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-12T19:58:59Z",
+            "open_issues": 18,
             "owner": "nomic-io",
             "repo": "nomic",
-            "stars": 154
+            "stars": 154,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -586,12 +966,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "RsNano is a Rust port of nano-node",
+            "homepage": "https://rsnano.com",
             "id": 348635999,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2026-07-03T12:25:29Z",
+            "open_issues": 9,
             "owner": "rsnano-node",
             "repo": "rsnano-node",
-            "stars": 107
+            "stars": 107,
+            "topics": [
+              "nano-cryptocurrency",
+              "nano-currency",
+              "nanocurrency"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -602,12 +991,25 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Enigma Core library. The domain: Trusted and Untrusted App in Rust. ",
+            "homepage": "https://enigma.co",
             "id": 145532117,
             "language": "Rust",
+            "license": "AGPL-3.0",
             "last_commit": "2020-03-10T14:44:28Z",
+            "open_issues": 14,
             "owner": "scrtlabs",
             "repo": "enigma-core",
-            "stars": 92
+            "stars": 92,
+            "topics": [
+              "blockchain",
+              "decentralized",
+              "enigma",
+              "rust",
+              "rust-lang",
+              "sgx",
+              "tee"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -618,12 +1020,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Chainflip backend repo, including the Chainflip Node and CFE.",
+            "homepage": null,
             "id": 341335250,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T15:05:40Z",
+            "open_issues": 45,
             "owner": "chainflip-io",
             "repo": "chainflip-backend",
-            "stars": 69
+            "stars": 69,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -634,12 +1041,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "𝕊 The Secret Network",
+            "homepage": "https://enigma.co",
             "id": 313000329,
             "language": null,
+            "license": "AGPL-3.0",
             "last_commit": "2020-11-14T21:33:02Z",
+            "open_issues": 0,
             "owner": "SecretFoundation",
             "repo": "SecretNetwork",
-            "stars": 29
+            "stars": 29,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -650,12 +1062,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "xx network Substrate based blockchain node",
+            "homepage": null,
             "id": 409746937,
             "language": "Rust",
+            "license": "GPL-3.0",
             "last_commit": "2026-01-28T01:52:52Z",
+            "open_issues": 0,
             "owner": "xxfoundation",
             "repo": "xxchain",
-            "stars": 19
+            "stars": 19,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -666,12 +1083,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library for creating and parsing Bitcoin Cash trasactions",
+            "homepage": null,
             "id": 230317648,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2021-01-26T22:40:48Z",
+            "open_issues": 0,
             "owner": "be-cash",
             "repo": "bitcoin-cash",
-            "stars": 15
+            "stars": 15,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -682,12 +1104,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Part of the IOP Stack™ Morpheus is a toolset to have gatekeeper-free identity management and verifiable claims as a 2nd layer on top of a blockchain",
+            "homepage": "https://mosaicchain.io",
             "id": 239760924,
             "language": "Rust",
+            "license": "LGPL-3.0",
             "last_commit": "2026-07-30T11:34:22Z",
+            "open_issues": 0,
             "owner": "Internet-of-People",
             "repo": "iop-rs",
-            "stars": 14
+            "stars": 14,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -698,12 +1125,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A Decentralized Operating System for ZK Applications",
+            "homepage": "https://aleonet.github.io/snarkOS-test/",
             "id": 1251712832,
             "language": null,
+            "license": "Apache-2.0",
             "last_commit": "2026-05-27T14:26:22Z",
+            "open_issues": 0,
             "owner": "AleoNet",
             "repo": "snarkOS-test",
-            "stars": 1
+            "stars": 1,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -720,12 +1152,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Substrate: The platform for blockchain innovators",
+            "homepage": null,
             "id": 109872620,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-25T20:31:30Z",
+            "open_issues": 627,
             "owner": "paritytech",
             "repo": "substrate",
-            "stars": 8399
+            "stars": 8399,
+            "topics": [
+              "blockchain",
+              "client",
+              "node",
+              "parity",
+              "polkadot",
+              "substrate"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -736,12 +1180,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "⚓ Solana Program Framework",
+            "homepage": "https://anchor-lang.com",
             "id": 325891672,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T00:59:01Z",
+            "open_issues": 165,
             "owner": "otter-sec",
             "repo": "anchor",
-            "stars": 5122
+            "stars": 5122,
+            "topics": [
+              "blockchain",
+              "rust",
+              "smart-contracts",
+              "solana"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -752,12 +1206,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Client libraries for Tendermint/CometBFT in Rust!",
+            "homepage": null,
             "id": 198281078,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-17T09:39:38Z",
+            "open_issues": 177,
             "owner": "cometbft",
             "repo": "tendermint-rs",
-            "stars": 671
+            "stars": 671,
+            "topics": [
+              "cometbft",
+              "light-client",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -768,12 +1232,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": " A new blockchain architecture under active development, with a strong focus on scalability, privacy and safety",
+            "homepage": null,
             "id": 162481536,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2021-04-02T23:02:46Z",
+            "open_issues": 54,
             "owner": "stellar",
             "repo": "slingshot",
-            "stars": 423
+            "stars": 423,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -784,12 +1253,25 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust-based framework to Fuzz Solana programs, designed to help you ship secure code.",
+            "homepage": "https://ackee.xyz/trident/docs/latest/",
             "id": 425896296,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-05-18T11:25:38Z",
+            "open_issues": 19,
             "owner": "Ackee-Blockchain",
             "repo": "trident",
-            "stars": 401
+            "stars": 401,
+            "topics": [
+              "anchor",
+              "fuzz",
+              "fuzz-testing",
+              "fuzzer",
+              "fuzzing",
+              "rust",
+              "solana"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -800,12 +1282,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Deterministic state machine engine written in Rust",
+            "homepage": null,
             "id": 214323030,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-01-25T21:52:51Z",
+            "open_issues": 20,
             "owner": "turbofish-org",
             "repo": "orga",
-            "stars": 174
+            "stars": 174,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -822,12 +1309,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "IBC Relayer in Rust",
+            "homepage": "https://hermes.informal.systems",
             "id": 242750177,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-10-29T18:07:16Z",
+            "open_issues": 220,
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 505
+            "stars": 505,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "ibc",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -838,12 +1336,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Rust implementation of the Inter-Blockchain Communication (IBC) protocol.",
+            "homepage": null,
             "id": 542730441,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-07-10T14:54:51Z",
+            "open_issues": 116,
             "owner": "informalsystems",
             "repo": "ibc-rs",
-            "stars": 224
+            "stars": 224,
+            "topics": [
+              "blockchain",
+              "cosmos",
+              "ibc",
+              "rust",
+              "tendermint"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -854,12 +1363,35 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "This is the official Komodo DeFi Framework repository",
+            "homepage": "https://komodoplatform.com/en/docs/komodo-defi-framework/",
             "id": 119973711,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-07-27T17:18:41Z",
+            "open_issues": 417,
             "owner": "GLEECBTC",
             "repo": "komodo-defi-framework",
-            "stars": 125
+            "stars": 125,
+            "topics": [
+              "atomic-swap",
+              "atomic-swaps",
+              "bitcoin",
+              "blockchain",
+              "cross-chain",
+              "cross-chain-applications",
+              "cross-chain-bridge",
+              "cross-chain-dex",
+              "cross-chain-swap",
+              "dex",
+              "erc20",
+              "ethereum",
+              "komodo",
+              "p2p",
+              "qrc20",
+              "qtum",
+              "utxo"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -870,12 +1402,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The home for Hyperlane core contracts, sdk packages, and other infrastructure",
+            "homepage": "https://hyperlane.xyz",
             "id": 437973582,
             "language": "TypeScript",
-            "last_commit": "2026-08-28T19:07:24Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T03:19:01Z",
+            "open_issues": 928,
             "owner": "hyperlane-xyz",
             "repo": "hyperlane-monorepo",
-            "stars": 73
+            "stars": 73,
+            "topics": [
+              "blockchain",
+              "hyperlane",
+              "interchain",
+              "monorepo"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -892,12 +1434,28 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "🚀 Fast, secure, lightweight containers based on WebAssembly",
+            "homepage": "https://wasmer.io",
             "id": 152572186,
             "language": "Rust",
-            "last_commit": "2026-08-28T14:27:35Z",
+            "license": "MIT",
+            "last_commit": "2026-08-29T01:41:13Z",
+            "open_issues": 251,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 20982
+            "stars": 20985,
+            "topics": [
+              "emscripten",
+              "linux",
+              "macos",
+              "rust",
+              "wasi",
+              "wasix",
+              "wasm",
+              "wasmer",
+              "webassembly",
+              "windows"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -908,12 +1466,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A lightweight WebAssembly runtime that is fast, secure, and standards-compliant",
+            "homepage": "https://wasmtime.dev/",
             "id": 101767772,
             "language": "Rust",
-            "last_commit": "2026-08-28T16:49:28Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:35:24Z",
+            "open_issues": 850,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18578
+            "stars": 18579,
+            "topics": [
+              "aot",
+              "cranelift",
+              "jit",
+              "lightweight",
+              "portable",
+              "runtime",
+              "rust",
+              "sandbox",
+              "standalone",
+              "wasi",
+              "wasm",
+              "wasmtime",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -924,12 +1501,23 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The fast, light, and robust client for Ethereum-like networks.",
+            "homepage": null,
             "id": 46714939,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2020-11-01T09:05:37Z",
+            "open_issues": 160,
             "owner": "openethereum",
             "repo": "parity-ethereum",
-            "stars": 6823
+            "stars": 6823,
+            "topics": [
+              "blockchain",
+              "client",
+              "ethereum",
+              "node",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -940,12 +1528,27 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lunatic is an Erlang-inspired runtime for WebAssembly",
+            "homepage": "https://lunatic.solutions",
             "id": 290495697,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-03-29T18:30:22Z",
+            "open_issues": 48,
             "owner": "lunatic-solutions",
             "repo": "lunatic",
-            "stars": 4885
+            "stars": 4885,
+            "topics": [
+              "actors",
+              "assemblyscript",
+              "erlang",
+              "lunatic",
+              "runtime",
+              "rust",
+              "vm",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -956,12 +1559,31 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Efficient and versatile WebAssembly interpreter for embedded systems.",
+            "homepage": "https://wasmi-labs.github.io/wasmi/",
             "id": 118469706,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-28T10:49:21Z",
+            "open_issues": 25,
             "owner": "wasmi-labs",
             "repo": "wasmi",
-            "stars": 2176
+            "stars": 2177,
+            "topics": [
+              "embedded",
+              "interpreter",
+              "lightweight",
+              "portable",
+              "runtime",
+              "rust",
+              "sandbox",
+              "secure",
+              "standalone",
+              "virtual-machine",
+              "wasi",
+              "wasm",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -972,12 +1594,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "WebAssembly Smart Contracts for the Cosmos SDK",
+            "homepage": "https://www.cosmwasm.com",
             "id": 212116761,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-08-25T09:58:56Z",
+            "open_issues": 42,
             "owner": "CosmWasm",
             "repo": "cosmwasm",
-            "stars": 1144
+            "stars": 1144,
+            "topics": [
+              "cosmos-sdk",
+              "rust",
+              "smart-contracts",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -988,12 +1620,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "STARK-based virtual machine",
+            "homepage": "https://0xmiden.github.io/miden-vm/",
             "id": 404963106,
             "language": "Rust",
-            "last_commit": "2026-08-28T17:19:39Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-28T21:32:51Z",
+            "open_issues": 183,
             "owner": "0xMiden",
             "repo": "miden-vm",
-            "stars": 770
+            "stars": 770,
+            "topics": [
+              "cryptography",
+              "stark",
+              "virtual-machine",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1004,12 +1646,24 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "CKB's vm, based on open source RISC-V ISA",
+            "homepage": "https://www.nervos.org/",
             "id": 158303450,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-21T07:28:59Z",
+            "open_issues": 13,
             "owner": "nervosnetwork",
             "repo": "ckb-vm",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "blockchain",
+              "ckb",
+              "nervos",
+              "riscv",
+              "rust",
+              "smart-contract"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1020,12 +1674,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Reference implementation of the Filecoin Virtual Machine",
+            "homepage": "https://fvm.filecoin.io/",
             "id": 426716366,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-18T12:00:43Z",
+            "open_issues": 193,
             "owner": "filecoin-project",
             "repo": "ref-fvm",
-            "stars": 423
+            "stars": 423,
+            "topics": [
+              "filecoin",
+              "rust",
+              "webassembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1036,12 +1699,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Fuel v2 interpreter in Rust",
+            "homepage": null,
             "id": 373013401,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-07-17T17:55:00Z",
+            "open_issues": 44,
             "owner": "FuelLabs",
             "repo": "fuel-vm",
-            "stars": 370
+            "stars": 370,
+            "topics": [
+              "blockchain",
+              "fuel",
+              "vm"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1052,12 +1724,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "The Zinc language public repository",
+            "homepage": null,
             "id": 254016531,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-11-25T15:23:23Z",
+            "open_issues": 8,
             "owner": "matter-labs",
             "repo": "zinc",
-            "stars": 309
+            "stars": 309,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1068,12 +1745,22 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "SVM - Spacemesh Virtual Machine",
+            "homepage": "https://spacemesh.io",
             "id": 194487031,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2023-01-20T23:43:46Z",
+            "open_issues": 79,
             "owner": "spacemeshos",
             "repo": "svm",
-            "stars": 84
+            "stars": 84,
+            "topics": [
+              "rust",
+              "spacemesh",
+              "wasm",
+              "web-assembly"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1084,12 +1771,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Bithoven is a smart contract language for composing powerful and secure instruments on Bitcoin. LR(1) parser with static analysis for compile-time safety. Formal verification paper: https://arxiv.org/abs/2601.01436",
+            "homepage": "https://bithoven-lang.github.io/bithoven/docs/",
             "id": 930205454,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-02-25T05:35:42Z",
+            "open_issues": 5,
             "owner": "ChrisCho-H",
             "repo": "bithoven",
-            "stars": 43
+            "stars": 43,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1106,12 +1798,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Raft distributed consensus algorithm implemented in Rust.",
+            "homepage": null,
             "id": 114735865,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-13T09:23:35Z",
+            "open_issues": 78,
             "owner": "tikv",
             "repo": "raft-rs",
-            "stars": 3381
+            "stars": 3381,
+            "topics": [
+              "distributed-consensus-algorithms",
+              "distributed-systems",
+              "raft",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1122,12 +1824,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": " An implementation of the paper \"Honey Badger of BFT Protocols\" in Rust. This is a modular library of consensus.",
+            "homepage": null,
             "id": 125307734,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-01-06T19:06:04Z",
+            "open_issues": 44,
             "owner": "poanetwork",
             "repo": "hbbft",
-            "stars": 369
+            "stars": 369,
+            "topics": [
+              "bft-protocols",
+              "consensus",
+              "honeybadger"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1138,12 +1849,20 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Narwhal & Tusk are a high throughput mempool & consensus, used in the Sui smart contract platform",
+            "homepage": null,
             "id": 423635889,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2022-10-17T13:49:58Z",
+            "open_issues": 0,
             "owner": "MystenLabs",
             "repo": "narwhal",
-            "stars": 177
+            "stars": 177,
+            "topics": [
+              "consensus",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1160,12 +1879,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "The Rust Implementation of the libp2p networking stack. ",
+            "homepage": "https://libp2p.io",
             "id": 86106381,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T08:59:38Z",
+            "open_issues": 289,
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5606
+            "stars": 5606,
+            "topics": [
+              "decentralization",
+              "libp2p",
+              "networking",
+              "peer-to-peer",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1176,12 +1906,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Reliable p2p network connections in Rust with NAT traversal. One of the most needed libraries for any server-less / decentralised projects",
+            "homepage": null,
             "id": 33324427,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2019-06-04T14:33:57Z",
+            "open_issues": 25,
             "owner": "maidsafe-archive",
             "repo": "crust",
-            "stars": 949
+            "stars": 949,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1192,12 +1927,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "peer-to-peer communications library for Rust based on QUIC protocol",
+            "homepage": null,
             "id": 175668563,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2023-03-20T15:06:44Z",
+            "open_issues": 8,
             "owner": "maidsafe",
             "repo": "qp2p",
-            "stars": 420
+            "stars": 420,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1208,12 +1948,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "Routing - specialised storage DHT",
+            "homepage": null,
             "id": 31270514,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2021-06-25T14:37:11Z",
+            "open_issues": 0,
             "owner": "maidsafe",
             "repo": "sn_routing",
-            "stars": 271
+            "stars": 271,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1224,12 +1969,22 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A multiplexed p2p network framework that supports custom protocols",
+            "homepage": "https://docs.rs/tentacle",
             "id": 162402056,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-18T09:15:56Z",
+            "open_issues": 1,
             "owner": "driftluo",
             "repo": "tentacle",
-            "stars": 227
+            "stars": 227,
+            "topics": [
+              "framework",
+              "p2p",
+              "rust",
+              "rust-library"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1240,12 +1995,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "NAT Traversal techniques for p2p communication",
+            "homepage": null,
             "id": 82485953,
             "language": "Rust",
+            "license": "BSD-3-Clause",
             "last_commit": "2018-11-27T15:20:58Z",
+            "open_issues": 5,
             "owner": "ustulation",
             "repo": "p2p",
-            "stars": 152
+            "stars": 152,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1256,12 +2016,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Lightweight p2p library. Support build robust connection on decentralized network.",
+            "homepage": null,
             "id": 193683112,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-09-19T22:04:43Z",
+            "open_issues": 13,
             "owner": "PostSiliconDev",
             "repo": "chamomile",
-            "stars": 124
+            "stars": 124,
+            "topics": [
+              "dht",
+              "distributed",
+              "network",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1278,12 +2049,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Nova: High-speed recursive zero-knowledge arguments from folding schemes",
+            "homepage": null,
             "id": 388547709,
             "language": "Rust",
+            "license": "MIT",
             "last_commit": "2026-08-24T12:40:03Z",
+            "open_issues": 27,
             "owner": "microsoft",
             "repo": "Nova",
-            "stars": 862
+            "stars": 862,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1294,12 +2070,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "OpenZKP - pure Rust implementations of Zero-Knowledge Proof systems.",
+            "homepage": null,
             "id": 178040830,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2024-04-23T12:24:45Z",
+            "open_issues": 299,
             "owner": "0xProject",
             "repo": "OpenZKP",
-            "stars": 660
+            "stars": 660,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1310,12 +2091,21 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Collect libraries and packages about cryptography in Rust.",
+            "homepage": null,
             "id": 216953592,
             "language": null,
+            "license": null,
             "last_commit": "2026-07-01T13:25:10Z",
+            "open_issues": 1,
             "owner": "rust-cc",
             "repo": "awesome-cryptography-rust",
-            "stars": 588
+            "stars": 588,
+            "topics": [
+              "awesome",
+              "cryptography",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1326,12 +2116,24 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "An experimental rust zksnarks compiler with embeeded bellman-bn128 prover",
+            "homepage": null,
             "id": 232611919,
             "language": "Rust",
+            "license": "LGPL-2.1",
             "last_commit": "2021-05-29T09:15:38Z",
+            "open_issues": 7,
             "owner": "adria0",
             "repo": "za",
-            "stars": 41
+            "stars": 41,
+            "topics": [
+              "cryptography",
+              "ethereum",
+              "learning-by-doing",
+              "rust",
+              "smartcontract",
+              "zk-snarks"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1348,12 +2150,19 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "zkSync: trustless scaling and privacy engine for Ethereum",
+            "homepage": "https://zksync.io",
             "id": 189174934,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-05-08T09:04:17Z",
+            "open_issues": 106,
             "owner": "matter-labs",
             "repo": "zksync",
-            "stars": 4924
+            "stars": 4924,
+            "topics": [
+              "team-core"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1364,12 +2173,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Noir is a domain specific language for zero knowledge proofs",
+            "homepage": "https://noir-lang.org",
             "id": 285004577,
             "language": "Rust",
-            "last_commit": "2026-08-28T04:49:45Z",
+            "license": "Apache-2.0",
+            "last_commit": "2026-08-29T02:19:07Z",
+            "open_issues": 797,
             "owner": "noir-lang",
             "repo": "noir",
-            "stars": 1395
+            "stars": 1395,
+            "topics": [
+              "compiler",
+              "cryptography",
+              "noir-lang",
+              "programming-language",
+              "zero-knowledge"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1380,12 +2200,20 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Active development happens on git.rust-bitcoin.org, this repo is a mirror of https://git.rust-bitcoin.org/lightningdevkit/rust-lightning",
+            "homepage": "https://git.rust-bitcoin.org/lightningdevkit/rust-lightning",
             "id": 121809370,
             "language": "Rust",
+            "license": "NOASSERTION",
             "last_commit": "2026-08-28T19:25:09Z",
+            "open_issues": 275,
             "owner": "lightningdevkit",
             "repo": "rust-lightning",
-            "stars": 1372
+            "stars": 1372,
+            "topics": [
+              "bitcoin",
+              "lightning-network"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1396,12 +2224,23 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Penumbra is a privacy-preserving decentralized exchange for all of crypto",
+            "homepage": "https://penumbra.zone",
             "id": 359924608,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-01-24T20:53:27Z",
+            "open_issues": 203,
             "owner": "penumbra-zone",
             "repo": "penumbra",
-            "stars": 482
+            "stars": 482,
+            "topics": [
+              "cosmos",
+              "dex",
+              "ethereum",
+              "privacy",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1412,12 +2251,17 @@
           "children": [],
           "repo_info": {
             "archived": true,
+            "description": "ArbOS operating system, to run at Layer 2 on Arbitrum chains.  Also a compiler for Mini, the language in which ArbOS is written.",
+            "homepage": null,
             "id": 246658172,
             "language": "Rust",
+            "license": null,
             "last_commit": "2022-08-24T23:47:56Z",
+            "open_issues": 34,
             "owner": "OffchainLabs",
             "repo": "arb-os",
-            "stars": 95
+            "stars": 95,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1434,12 +2278,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Project Serum Rust Monorepo",
+            "homepage": "https://projectserum.com",
             "id": 285484098,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-06-07T10:08:14Z",
+            "open_issues": 65,
             "owner": "project-serum",
             "repo": "serum-dex",
-            "stars": 696
+            "stars": 696,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1450,12 +2299,38 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Next generation full-stack boilerplate for ink! smart contracts running on PolkaVM.",
+            "homepage": "https://inkathon.xyz/",
             "id": 565872605,
             "language": "TypeScript",
+            "license": "GPL-3.0",
             "last_commit": "2025-12-12T13:16:25Z",
+            "open_issues": 2,
             "owner": "scio-labs",
             "repo": "inkathon",
-            "stars": 230
+            "stars": 230,
+            "topics": [
+              "backend",
+              "blockchain",
+              "cargo",
+              "contracts",
+              "dapp",
+              "frontend",
+              "ink",
+              "next",
+              "nextjs",
+              "openbrush",
+              "polkadot",
+              "polkadot-js",
+              "rust",
+              "rust-lang",
+              "smart-contracts",
+              "substrate",
+              "substrate-node",
+              "tailwind",
+              "tailwindcss",
+              "typescript"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1466,12 +2341,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "A library to help you sew up your Ethereum project with Rust and just like develop in a common backend",
+            "homepage": null,
             "id": 366034179,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2023-09-11T03:57:03Z",
+            "open_issues": 40,
             "owner": "second-state",
             "repo": "SewUp",
-            "stars": 54
+            "stars": 54,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1488,12 +2368,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "Application microframework with command-line option parsing, configuration, error handling, logging, and shell interactions",
+            "homepage": null,
             "id": 146150191,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2026-04-06T13:05:55Z",
+            "open_issues": 30,
             "owner": "iqlusioninc",
             "repo": "abscissa",
-            "stars": 593
+            "stars": 593,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1504,12 +2389,26 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "ERC-4337 (Account Abstraction) - modular and efficient bundler implementation in Rust.",
+            "homepage": "http://silius.rs/",
             "id": 555758437,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2025-08-18T21:35:10Z",
+            "open_issues": 34,
             "owner": "silius-rs",
             "repo": "silius",
-            "stars": 273
+            "stars": 273,
+            "topics": [
+              "account-abstraction",
+              "bundler",
+              "eip-4337",
+              "erc-4337",
+              "ethereum",
+              "modular",
+              "p2p",
+              "rust"
+            ]
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1520,12 +2419,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "High-performance Merkle key/value store",
+            "homepage": null,
             "id": 112324024,
             "language": "Rust",
+            "license": "Apache-2.0",
             "last_commit": "2024-12-18T17:48:38Z",
+            "open_issues": 17,
             "owner": "turbofish-org",
             "repo": "merk",
-            "stars": 249
+            "stars": 249,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         },
@@ -1536,12 +2440,17 @@
           "children": [],
           "repo_info": {
             "archived": false,
+            "description": "VS Code extension for Solana",
+            "homepage": null,
             "id": 919513387,
             "language": "Rust",
+            "license": null,
             "last_commit": "2026-04-01T08:25:10Z",
+            "open_issues": 4,
             "owner": "Ackee-Blockchain",
             "repo": "solana-vscode",
-            "stars": 38
+            "stars": 38,
+            "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
         }
@@ -1550,15 +2459,27 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-28T19:29:21.785Z",
+    "last_updated": "2026-08-29T04:21:29.278Z",
     "original_repository_info": {
       "archived": false,
+      "description": "Collect libraries and packages about blockchain/cryptography in Rust",
+      "homepage": null,
       "id": 184961291,
       "language": null,
+      "license": null,
       "last_commit": "2026-05-17T21:39:23Z",
+      "open_issues": 13,
       "owner": "rust-in-blockchain",
       "repo": "awesome-blockchain-rust",
-      "stars": 2809
+      "stars": 2810,
+      "topics": [
+        "awesome",
+        "blockchain",
+        "consensus",
+        "cryptography",
+        "p2p",
+        "rust"
+      ]
     },
     "original_repository_sha": "f27be64a93517e2f3e7dc4dbe38660536e29fe9a",
     "enhanced_repository": "enhansome/enhansome-blockchain-rust",
