@@ -43,7 +43,7 @@
             "open_issues": 369,
             "owner": "diem",
             "repo": "diem",
-            "stars": 16660,
+            "stars": 16661,
             "topics": [
               "blockchain"
             ]
@@ -66,7 +66,7 @@
             "open_issues": 265,
             "owner": "solana-labs",
             "repo": "solana",
-            "stars": 14941,
+            "stars": 14940,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -91,11 +91,11 @@
             "id": 426075845,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-03T04:09:03Z",
+            "last_commit": "2026-10-03T07:03:16Z",
             "open_issues": 874,
             "owner": "MystenLabs",
             "repo": "sui",
-            "stars": 7760,
+            "stars": 7762,
             "topics": [
               "blockchain",
               "distributed-ledger-technology",
@@ -176,7 +176,7 @@
             "open_issues": 139,
             "owner": "mimblewimble",
             "repo": "grin",
-            "stars": 5100,
+            "stars": 5101,
             "topics": [
               "cryptocurrency",
               "cryptography",
@@ -201,10 +201,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T14:24:20Z",
-            "open_issues": 573,
+            "open_issues": 574,
             "owner": "sigp",
             "repo": "lighthouse",
-            "stars": 3476,
+            "stars": 3478,
             "topics": [
               "eth2",
               "ethereum",
@@ -256,7 +256,7 @@
             "open_issues": 531,
             "owner": "near",
             "repo": "nearcore",
-            "stars": 2622,
+            "stars": 2623,
             "topics": [
               "blockchain",
               "nearprotocol",
@@ -333,8 +333,8 @@
             "id": 365701873,
             "language": "Rust",
             "license": "NOASSERTION",
-            "last_commit": "2026-10-03T03:38:06Z",
-            "open_issues": 290,
+            "last_commit": "2026-10-03T07:19:26Z",
+            "open_issues": 289,
             "owner": "dfinity",
             "repo": "ic",
             "stars": 1794,
@@ -381,7 +381,7 @@
             "open_issues": 272,
             "owner": "holochain",
             "repo": "holochain",
-            "stars": 1394,
+            "stars": 1395,
             "topics": [
               "blockchain",
               "dapps",
@@ -412,7 +412,7 @@
             "open_issues": 11,
             "owner": "citahub",
             "repo": "cita",
-            "stars": 1301,
+            "stars": 1302,
             "topics": [
               "blockchain",
               "consensus",
@@ -439,7 +439,7 @@
             "open_issues": 44,
             "owner": "exonum",
             "repo": "exonum",
-            "stars": 1245,
+            "stars": 1246,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -469,7 +469,7 @@
             "open_issues": 80,
             "owner": "nervosnetwork",
             "repo": "ckb",
-            "stars": 1217,
+            "stars": 1218,
             "topics": [
               "blockchain",
               "ckb",
@@ -491,7 +491,7 @@
             "id": 808266543,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T18:09:56Z",
+            "last_commit": "2026-10-03T12:10:44Z",
             "open_issues": 1034,
             "owner": "lambdaclass",
             "repo": "ethrex",
@@ -526,7 +526,7 @@
             "open_issues": 54,
             "owner": "paritytech",
             "repo": "parity-bitcoin",
-            "stars": 722,
+            "stars": 723,
             "topics": [
               "bitcoin",
               "blockchain",
@@ -581,7 +581,7 @@
             "open_issues": 137,
             "owner": "ChainSafe",
             "repo": "forest",
-            "stars": 701,
+            "stars": 702,
             "topics": [
               "blockchain",
               "filecoin",
@@ -607,7 +607,7 @@
             "open_issues": 175,
             "owner": "cometbft",
             "repo": "tendermint-rs",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "cometbft",
               "light-client",
@@ -629,7 +629,7 @@
             "id": 205255683,
             "language": "Rust",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T22:22:17Z",
+            "last_commit": "2026-10-03T11:41:47Z",
             "open_issues": 412,
             "owner": "ZcashFoundation",
             "repo": "zebra",
@@ -1189,7 +1189,7 @@
             "open_issues": 91,
             "owner": "otter-sec",
             "repo": "anchor",
-            "stars": 5140,
+            "stars": 5141,
             "topics": [
               "blockchain",
               "rust",
@@ -1215,7 +1215,7 @@
             "open_issues": 175,
             "owner": "cometbft",
             "repo": "tendermint-rs",
-            "stars": 672,
+            "stars": 673,
             "topics": [
               "cometbft",
               "light-client",
@@ -1262,7 +1262,7 @@
             "open_issues": 19,
             "owner": "Ackee-Blockchain",
             "repo": "trident",
-            "stars": 405,
+            "stars": 406,
             "topics": [
               "anchor",
               "fuzz",
@@ -1318,7 +1318,7 @@
             "open_issues": 220,
             "owner": "informalsystems",
             "repo": "hermes",
-            "stars": 505,
+            "stars": 506,
             "topics": [
               "blockchain",
               "cosmos",
@@ -1407,11 +1407,11 @@
             "id": 437973582,
             "language": "TypeScript",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-02T17:12:26Z",
+            "last_commit": "2026-10-03T09:54:23Z",
             "open_issues": 926,
             "owner": "hyperlane-xyz",
             "repo": "hyperlane-monorepo",
-            "stars": 76,
+            "stars": 77,
             "topics": [
               "blockchain",
               "hyperlane",
@@ -1439,11 +1439,11 @@
             "id": 152572186,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-03T00:02:51Z",
-            "open_issues": 282,
+            "last_commit": "2026-10-03T11:16:37Z",
+            "open_issues": 283,
             "owner": "wasmerio",
             "repo": "wasmer",
-            "stars": 21118,
+            "stars": 21120,
             "topics": [
               "emscripten",
               "linux",
@@ -1472,10 +1472,10 @@
             "language": "Rust",
             "license": "Apache-2.0",
             "last_commit": "2026-10-02T23:03:16Z",
-            "open_issues": 850,
+            "open_issues": 852,
             "owner": "bytecodealliance",
             "repo": "wasmtime",
-            "stars": 18681,
+            "stars": 18683,
             "topics": [
               "aot",
               "cranelift",
@@ -1568,7 +1568,7 @@
             "open_issues": 38,
             "owner": "wasmi-labs",
             "repo": "wasmi",
-            "stars": 2317,
+            "stars": 2318,
             "topics": [
               "cross-platform",
               "edge-computing",
@@ -1891,11 +1891,11 @@
             "id": 86106381,
             "language": "Rust",
             "license": "MIT",
-            "last_commit": "2026-10-02T15:26:23Z",
-            "open_issues": 302,
+            "last_commit": "2026-10-03T07:46:26Z",
+            "open_issues": 301,
             "owner": "libp2p",
             "repo": "rust-libp2p",
-            "stars": 5615,
+            "stars": 5616,
             "topics": [
               "decentralization",
               "libp2p",
@@ -2062,10 +2062,10 @@
             "language": "Rust",
             "license": "MIT",
             "last_commit": "2026-09-18T18:54:59Z",
-            "open_issues": 26,
+            "open_issues": 27,
             "owner": "microsoft",
             "repo": "Nova",
-            "stars": 862,
+            "stars": 863,
             "topics": []
           },
           "first_seen": "2026-08-28T19:29:21.785Z"
@@ -2216,7 +2216,7 @@
             "open_issues": 267,
             "owner": "lightningdevkit",
             "repo": "rust-lightning",
-            "stars": 1375,
+            "stars": 1376,
             "topics": [
               "bitcoin",
               "lightning-network"
@@ -2466,7 +2466,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T04:41:43.638Z",
+    "last_updated": "2026-10-03T12:38:19.029Z",
     "original_repository_info": {
       "archived": false,
       "description": "Collect libraries and packages about blockchain/cryptography in Rust",
